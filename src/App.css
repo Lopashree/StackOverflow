@@ -96,23 +96,47 @@ nav .search-box .search-button {
     color: orange;
 }
 
-.navbar .icons i {
-    font-size: 20px;
-    margin-left: 15px;
-    cursor: pointer;
+.search-box:focus-within {
+    box-shadow: 0px 0px 3px #fd7300a8;
+}
+.navbar .nav-links a {
+    text-decoration: none;
+    color: #666665;
+    position: relative;
+}
+.navbar .nav-links a::after {
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    transition: width 0.3s ease-in-out;
 }
 
-.icons i {
-    margin: 0 8px;
+.nav-links a:hover::after,
+.nav-links a:focus::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #fd7300;
+    bottom: -5px;
+    left: 0;
+    transition: width 0.3s ease-in-out;
+}
+
+.navbar .icons i {
+    margin: 0 15px;
     font-size: 20px;
     cursor: pointer;
-    transition: transform 0.3s ease, color 0.3s ease;
+    transition: transform 0.3s ease, color 0.2s ease-in;
     color: #666665;
 }
 
 .icons i:hover {
     transform: scale(1.2);
-    color: #fd7300; /* Icon hover color */
+    color: #fd7300;
 }
 
 .content-grid {
@@ -122,7 +146,7 @@ nav .search-box .search-button {
 }
 
 .sidebar {
-    padding: 20px;
+    padding: 20px 0;
     background-color: #f8f9fa;
     border-right: 1px solid #ddd;
 }
@@ -131,22 +155,40 @@ nav .search-box .search-button {
     list-style: none;
     padding: 0;
 }
-.sidebar ul.sub-menu {
-    margin-left: 27px;
-}
 .sidebar ul li {
-    margin-bottom: 15px;
+    padding-left: 23px;
+}
+.sidebar ul.sub-menu {
+    margin-left: 33px;
+    color: #000;
+}
+
+.sidebar i.bi {
+    color: #fbb257;
+    font-weight: 900;
+    font-size: large;
+    margin-right: 15px;
 }
 
 .sidebar ul li a {
     text-decoration: none;
-    color: #333;
+    color: #605d5d;
     display: flex;
     align-items: center;
+    height: 43px;
 }
 
 .sidebar ul li a i {
     margin-right: 10px;
+}
+.sidebar ul.sub-menu li a {
+    color: #000;
+}
+
+.active {
+    background-color: #fff2e5;
+    border-right: 8px solid #fd7300;
+    border-radius: 5px;
 }
 
 .main-content {

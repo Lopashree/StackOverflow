@@ -22,8 +22,8 @@ const Header = () => {
                         <i className="bi bi-search"></i>
                     </button>
                 </div>
-                <div className="nav-tab">
-                    <h4><a href="/">Products</a></h4>
+                <div className="nav-links">
+                    <a href="/">Products</a>
                 </div>
             </div>
 
