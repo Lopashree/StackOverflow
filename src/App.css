@@ -1,6 +1,33 @@
+/* CSS */
+
+.swatch_2 {
+    background: #fd7300;
+}
+.swatch_3 {
+    background: #d9cac4;
+}
+.swatch_4 {
+    background: #a2a2a2;
+}
+.swatch_5 {
+    background: #fbb257;
+}
+.swatch_6 {
+    background: #f83408;
+}
+.swatch_7 {
+    background: #666665;
+}
+.swatch_8 {
+    background: #0e60fe;
+}
+
 body {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: Arial, sans-serif;
+    background-color: #fbfafa;
 }
 
 .app {
@@ -8,9 +35,8 @@ body {
     flex-direction: column;
     height: 100vh;
 }
-
-.navbar {
-    display: flex;
+nav.navbar {
+    display: inline-flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
@@ -18,17 +44,56 @@ body {
     border-bottom: 1px solid #ddd;
 }
 
+.navbar .logo img {
+    width: 9.7em;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
 .navbar .logo a {
     text-decoration: none;
     font-size: 20px;
     color: #333;
 }
-
-.navbar .search-bar input {
-    width: 400px;
-    padding: 8px;
+nav .left-bar {
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10%;
+}
+.navbar .search-box {
+    display: flex;
+    align-items: center;
+    width: 37em;
     border: 1px solid #ddd;
-    border-radius: 4px;
+    border-radius: 30px;
+    padding: 5px 15px;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar .search-box input {
+    flex: 1;
+    width: 38em;
+    padding: 11px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    color: #555;
+}
+.navbar .search-box input::placeholder {
+    color: #bbb;
+}
+
+nav .search-box .search-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.search-button i {
+    font-size: 22px;
+    color: orange;
 }
 
 .navbar .icons i {
@@ -39,6 +104,15 @@ body {
 
 .icons i {
     margin: 0 8px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease, color 0.3s ease;
+    color: #666665;
+}
+
+.icons i:hover {
+    transform: scale(1.2);
+    color: #fd7300; /* Icon hover color */
 }
 
 .content-grid {
