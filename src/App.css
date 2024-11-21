@@ -199,10 +199,60 @@ nav .search-box .search-button {
     border-radius: 5px;
 }
 
+/* Main Content */
+
 .main-content {
-    padding: 20px;
     background-color: #f1f1f1;
     overflow-y: auto;
+}
+
+.content-head {
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 10;
+}
+
+.main-filters {
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+}
+.main-filters button {
+    padding: 6px 19px;
+    background: transparent;
+    color: #666665;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+.main-filters .main-selected {
+    background-color: #fd7300;
+    color: white;
+}
+.main-filters span {
+    position: absolute;
+    right: 23px;
+    padding: 6px 19px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    outline: none;
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.selected {
+    background-color: #fff2e5;
+    border-right: 8px solid #fd7300;
+    border-radius: 5px;
 }
 
 .question-card {
@@ -214,18 +264,63 @@ nav .search-box .search-button {
 }
 
 .question-card .tags {
-    margin-top: 10px;
+    margin: 18px 0;
 }
 
 .question-card .tag {
     display: inline-block;
     padding: 5px 10px;
-    margin-right: 5px;
-    background-color: #e9ecef;
-    border-radius: 3px;
+    margin-right: 11px;
+    background-color: transparent;
+    border: 1px solid #b4d8ff;
+    border-radius: 20px;
     font-size: 12px;
+    font-weight: lighter;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.question-card .tag:hover {
+    background-color: #007bff;
+    color: white;
 }
 
+.clicked {
+    color: orange;
+}
+
+.main-content .error {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.question-info {
+    display: flex;
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 2;
+    justify-content: space-between;
+}
+
+.question-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    font-size: 15px;
+}
+
+.question-icons p strong {
+    margin-left: 5px;
+}
+
+.owner-info a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Right Sidebar Start */
 .right-sidebar {
     padding: 20px;
     background-color: #fff;
