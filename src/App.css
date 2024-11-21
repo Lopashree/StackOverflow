@@ -1,27 +1,3 @@
-/* CSS */
-
-.swatch_2 {
-    background: #fd7300;
-}
-.swatch_3 {
-    background: #d9cac4;
-}
-.swatch_4 {
-    background: #a2a2a2;
-}
-.swatch_5 {
-    background: #fbb257;
-}
-.swatch_6 {
-    background: #f83408;
-}
-.swatch_7 {
-    background: #666665;
-}
-.swatch_8 {
-    background: #0e60fe;
-}
-
 /* src/App.css */
 @font-face {
     font-family: "Nunito";
@@ -49,7 +25,6 @@ nav.navbar {
     align-items: center;
     padding: 10px 20px;
     background-color: #fff;
-    border-bottom: 1px solid #ddd;
 }
 
 .navbar .logo img {
@@ -156,7 +131,6 @@ nav .search-box .search-button {
 .sidebar {
     padding: 20px 0;
     background-color: #f8f9fa;
-    border-right: 1px solid #ddd;
 }
 
 .sidebar ul {
@@ -258,11 +232,15 @@ nav .search-box .search-button {
 .question-card {
     background: #fff;
     padding: 15px;
-    margin-bottom: 10px;
+    margin: 10px;
     border-radius: 5px;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+.question-card a {
+    text-decoration: none;
+    color: black;
+}
 .question-card .tags {
     margin: 18px 0;
 }
@@ -324,7 +302,6 @@ nav .search-box .search-button {
 .right-sidebar {
     padding: 20px;
     background-color: #fff;
-    border-left: 1px solid #ddd;
     overflow-y: auto;
 }
 
