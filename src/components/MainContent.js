@@ -1,8 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import activityData from '../data/activity.json';
-import hotData from '../data/hot.json';
-import monthData from '../data/month.json';
-import weekData from '../data/week.json';
 
 const MainContent = () => {
     const [questions, setQuestions] = useState([]);
@@ -10,36 +6,24 @@ const MainContent = () => {
     const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState(null);
 
+    const API_URL = 'https://api.stackexchange.com/2.3/questions';
 
-    const fetchQuestions = (filterType) => {
+    const fetchQuestions = async (filterType) => {
+        setIsLoading(true);
+        setError(null);
+
         try {
-            setIsLoading(true);
-            setError(null);
+            const response = await fetch(`${API_URL}?order=asc&sort=${filterType}&site=stackoverflow`);
 
-            let data;
-            switch (filterType) {
-                case 'activity':
-                    data = activityData;
-                    break;
-                case 'hot':
-                    data = hotData;
-                    break;
-                case 'week':
-                    data = weekData;
-                    break;
-                case 'month':
-                    data = monthData;
-                    break;
-                default:
-                    data = hotData;
-                    break;
+            if (!response.ok) {
+                throw new Error(`API responded with status: ${response.status}`);
             }
 
-            setQuestions(data.items);
-            setIsLoading(false);
+            const data = await response.json();
+            setQuestions(data.items || []);
         } catch (err) {
-            console.error('Error fetching questions:', err);
-            setError('Unable to load data.');
+            setError(err.message || 'Failed to fetch data');
+        } finally {
             setIsLoading(false);
         }
     };
@@ -50,54 +34,77 @@ const MainContent = () => {
 
     return (
         <main className="main-content">
-            <div className='content-head'>
+            <div className="content-head">
                 <h3 style={{ letterSpacing: '2px', fontSize: '24px' }}>Top Questions</h3>
-
-                {/* Filter Buttons */}
                 <div className="main-filters">
-                    <button onClick={() => setFilter('activity')} className={filter === 'activity' ? 'main-selected' : ''}>Activity</button>
-                    <button onClick={() => setFilter('hot')} className={filter === 'hot' ? 'main-selected' : ''}>Hot</button>
-                    <button onClick={() => setFilter('week')} className={filter === 'week' ? 'main-selected' : ''}>Week</button>
-                    <button onClick={() => setFilter('month')} className={filter === 'month' ? 'main-selected' : ''}>Month</button>
+                    {['activity', 'hot', 'week', 'month'].map((filterType) => (
+                        <button
+                            key={filterType}
+                            onClick={() => setFilter(filterType)}
+                            className={filter === filterType ? 'main-selected' : ''}
+                            aria-pressed={filter === filterType}
+                        >
+                            {filterType.charAt(0).toUpperCase() + filterType.slice(1)}
+                        </button>
+                    ))}
                     <span>ASK QUESTION</span>
                 </div>
             </div>
 
-            {/* Display Loading, Error, or Questions */}
             {isLoading ? (
                 <p>Loading questions...</p>
             ) : error ? (
                 <p className="error">{error}</p>
-            ) : (
+            ) : questions.length > 0 ? (
                 questions.map((q) => (
                     <div key={q.question_id} className="question-card">
-                        <a href={q.link} target="_blank" rel="noopener noreferrer" className="question-link">
-                            <h3>{q.title}</h3> </a>
-
-                        {/* Render Tags */}
+                        <a
+                            href={q.link}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="question-link"
+                        >
+                            <h3>{q.title}</h3>
+                        </a>
                         <div className="tags">
                             {q.tags.map((tag, idx) => (
-                                <span key={idx} className="tag">{tag}</span>
+                                <span key={idx} className="tag">
+                                    {tag}
+                                </span>
                             ))}
                         </div>
-
-                        {/* Additional Information */}
                         <div className="question-info">
-                            <div className='question-icons'>
-                                <p><i class="bi bi-triangle"></i> <strong>{q.score}</strong></p>
-                                <p><i class="bi bi-chat-right-text"></i> <strong>{q.answer_count}</strong></p>
-                                <p><i class="bi bi-eye"></i> <strong>{q.view_count}</strong></p>
+                            <div className="question-icons">
+                                <p>
+                                    <i className="bi bi-triangle"></i> <strong>{q.score}</strong>
+                                </p>
+                                <p>
+                                    <i className="bi bi-chat-right-text"></i> <strong>{q.answer_count}</strong>
+                                </p>
+                                <p>
+                                    <i className="bi bi-eye"></i> <strong>{q.view_count}</strong>
+                                </p>
                             </div>
                             <div className="owner-info">
-                                <p>last activity on: <span style={{ textTransform: "uppercase" }}>{new Date(q.last_activity_date * 1000).toLocaleString()}</span>
-                                    <a href={q.owner.link} target="_blank" rel="noopener noreferrer">&nbsp;&nbsp;
-                                        {q.owner.display_name}
+                                <p>
+                                    Last activity on:{' '}
+                                    <span style={{ textTransform: 'uppercase' }}>
+                                        {new Date(q.last_activity_date * 1000).toLocaleString()}
+                                    </span>
+                                    <a
+                                        href={q.owner.link}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        &nbsp;&nbsp;{q.owner.display_name}
                                     </a>
                                 </p>
                             </div>
                         </div>
                     </div>
                 ))
+            ) : (
+                <p>No questions found.</p>
             )}
         </main>
     );

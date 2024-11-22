@@ -1,846 +1,809 @@
 {
-    "items": [
+  "items": [
       {
-        "tags": [
-          "asp.net-mvc"
-        ],
-        "owner": {
-          "account_id": 2962,
-          "reputation": 2297,
-          "user_id": 4204,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/61273477b46f3d7e57c6cbb51d38301e?s=256&d=identicon&r=PG",
-          "display_name": "Mihai Lazar",
-          "link": "https://stackoverflow.com/users/4204/mihai-lazar"
-        },
-        "is_answered": false,
-        "view_count": 1966,
-        "closed_date": 1647105847,
-        "answer_count": 0,
-        "score": 12,
-        "last_activity_date": 1220532625,
-        "creation_date": 1220508765,
-        "last_edit_date": 1220528186,
-        "question_id": 43243,
-        "link": "https://stackoverflow.com/questions/43243/how-does-web-routing-work",
-        "closed_reason": "Needs more focus",
-        "title": "How does Web Routing Work?"
+          "tags": [
+              "javascript",
+              "php",
+              "yii2",
+              "chart.js"
+          ],
+          "owner": {
+              "account_id": 29507242,
+              "reputation": 1,
+              "user_id": 22612997,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocInwXQbfOGYOHyZnN4dxHSaD3BtP3oWiF_RQLXxoLC2KvY=k-s256",
+              "display_name": "Najmuddin Roshenry",
+              "link": "https://stackoverflow.com/users/22612997/najmuddin-roshenry"
+          },
+          "is_answered": false,
+          "view_count": 22,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732246463,
+          "creation_date": 1732245312,
+          "last_edit_date": 1732246463,
+          "question_id": 79213520,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213520/cannot-implicity-convert-array-to-string-sending-data-from-controller-to-c",
+          "title": "Cannot Implicity convert &#39;array&#39; to &#39;string&#39;...sending data from controller to chart js"
       },
       {
-        "tags": [
-          ".net",
-          "wpf",
-          "performance"
-        ],
-        "owner": {
-          "account_id": 77,
-          "reputation": 12266,
-          "user_id": 93,
-          "user_type": "registered",
-          "accept_rate": 95,
-          "profile_image": "https://www.gravatar.com/avatar/ce74962e5a92bca7a49c6595668d4cd4?s=256&d=identicon&r=PG",
-          "display_name": "MojoFilter",
-          "link": "https://stackoverflow.com/users/93/mojofilter"
-        },
-        "is_answered": true,
-        "view_count": 603,
-        "accepted_answer_id": 43771,
-        "answer_count": 1,
-        "score": 10,
-        "last_activity_date": 1220535302,
-        "creation_date": 1220535156,
-        "last_edit_date": 1220535302,
-        "question_id": 43768,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/43768/wpf-control-performance",
-        "title": "WPF control performance"
+          "tags": [
+              "python"
+          ],
+          "owner": {
+              "account_id": 37758757,
+              "reputation": 1,
+              "user_id": 28412821,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/102c493cb961670c2eb4052f422a5a03?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "AKSHAJ THENUA",
+              "link": "https://stackoverflow.com/users/28412821/akshaj-thenua"
+          },
+          "is_answered": false,
+          "view_count": 21,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732246452,
+          "creation_date": 1732245965,
+          "last_edit_date": 1732246413,
+          "question_id": 79213535,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213535/how-do-i-fix-my-code-to-correctly-calculate-the-sum-of-all-even-numbers-in-a-lis",
+          "title": "How do I fix my code to correctly calculate the sum of all even numbers in a list?"
       },
       {
-        "tags": [
-          "algorithm",
-          "indexing",
-          "full-text-search"
-        ],
-        "owner": {
-          "account_id": 2968,
-          "reputation": 14501,
-          "user_id": 4213,
-          "user_type": "registered",
-          "accept_rate": 80,
-          "profile_image": "https://i.sstatic.net/oWF0Y.jpg?s=256",
-          "display_name": "Marcio Aguiar",
-          "link": "https://stackoverflow.com/users/4213/marcio-aguiar"
-        },
-        "is_answered": true,
-        "view_count": 424,
-        "accepted_answer_id": 42532,
-        "answer_count": 4,
-        "score": 8,
-        "last_activity_date": 1220535714,
-        "creation_date": 1220473264,
-        "question_id": 42489,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/42489/how-to-implement-a-related-degree-measure-algorithm",
-        "title": "How to implement a &quot;related&quot; degree measure algorithm?"
+          "tags": [
+              "linux",
+              "shell",
+              "unix",
+              "scripting"
+          ],
+          "owner": {
+              "account_id": 29937936,
+              "reputation": 1,
+              "user_id": 28424296,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocIYzWKIYRTY61-j4YOhdroANeWLfNtJjao1fYhS-m66UoY=k-s256",
+              "display_name": "Cara do TI",
+              "link": "https://stackoverflow.com/users/28424296/cara-do-ti"
+          },
+          "is_answered": true,
+          "view_count": 16,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732248715,
+          "creation_date": 1732243215,
+          "question_id": 79213467,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213467/how-to-create-a-script-that-copies-and-renames-a-file-to-a-certain-folder",
+          "title": "How to create a script that copies and renames a file to a certain folder?"
       },
       {
-        "tags": [
-          "php"
-        ],
-        "owner": {
-          "account_id": 2706,
-          "reputation": 5057,
-          "user_id": 3800,
-          "user_type": "registered",
-          "accept_rate": 93,
-          "profile_image": "https://www.gravatar.com/avatar/646f9bc3ae8effa7fa1a1a1c528ff522?s=256&d=identicon&r=PG",
-          "display_name": "Jack B Nimble",
-          "link": "https://stackoverflow.com/users/3800/jack-b-nimble"
-        },
-        "is_answered": true,
-        "view_count": 2006,
-        "closed_date": 1339260946,
-        "accepted_answer_id": 36444,
-        "answer_count": 9,
-        "score": 14,
-        "last_activity_date": 1220541141,
-        "creation_date": 1220135235,
-        "last_edit_date": 1220135307,
-        "question_id": 36417,
-        "link": "https://stackoverflow.com/questions/36417/php-best-practices",
-        "closed_reason": "not constructive",
-        "title": "PHP best practices?"
+          "tags": [
+              "c++",
+              "arrays",
+              "string",
+              "class"
+          ],
+          "owner": {
+              "account_id": 22382117,
+              "reputation": 21,
+              "user_id": 16595539,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/4792a183c5c9d6b9afb9630982725f54?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "lilof",
+              "link": "https://stackoverflow.com/users/16595539/lilof"
+          },
+          "is_answered": false,
+          "view_count": 20,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732248031,
+          "creation_date": 1732242717,
+          "last_edit_date": 1732248031,
+          "question_id": 79213458,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213458/how-to-pass-static-string-array-to-constructor-c",
+          "title": "How to pass static string array to constructor C++?"
       },
       {
-        "tags": [
-          "sql-server",
-          "t-sql",
-          "text",
-          "cursors"
-        ],
-        "owner": {
-          "account_id": 766,
-          "reputation": 1720,
-          "user_id": 997,
-          "user_type": "registered",
-          "accept_rate": 81,
-          "profile_image": "https://i.sstatic.net/jibpC.png?s=256",
-          "display_name": "svandragt",
-          "link": "https://stackoverflow.com/users/997/svandragt"
-        },
-        "is_answered": true,
-        "view_count": 824,
-        "accepted_answer_id": 39790,
-        "answer_count": 2,
-        "score": 5,
-        "last_activity_date": 1220543801,
-        "creation_date": 1220366027,
-        "last_edit_date": 1220994825,
-        "question_id": 39674,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/39674/adapt-replace-all-strings-in-all-tables-to-work-with-text",
-        "title": "Adapt Replace all strings in all tables to work with text"
+          "tags": [
+              "python",
+              "python-requests",
+              "vscode-extensions"
+          ],
+          "owner": {
+              "account_id": 30338287,
+              "reputation": 1,
+              "user_id": 23249678,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocKA15-lwrKnMsrURvZ4wYhBk0fnuvfXWNlEz2ioXnKY=k-s256",
+              "display_name": "Donald Law",
+              "link": "https://stackoverflow.com/users/23249678/donald-law"
+          },
+          "is_answered": false,
+          "view_count": 19,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732247193,
+          "creation_date": 1732245116,
+          "last_edit_date": 1732247193,
+          "question_id": 79213511,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213511/how-i-can-resolve-no-module-named-requests-in-vs-code",
+          "title": "How I can resolve No module named &#39;requests&#39; in VS Code?"
       },
       {
-        "tags": [
-          "svn",
-          "version-control"
-        ],
-        "owner": {
-          "account_id": 1860,
-          "reputation": 15168,
-          "user_id": 2567,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/49f710d3da88ca2cf04e7d70ba6ede53?s=256&d=identicon&r=PG&f=y&so-version=2",
-          "display_name": "Dana the Sane",
-          "link": "https://stackoverflow.com/users/2567/dana-the-sane"
-        },
-        "is_answered": true,
-        "view_count": 15793,
-        "accepted_answer_id": 45046,
-        "answer_count": 2,
-        "score": 14,
-        "last_activity_date": 1220576516,
-        "creation_date": 1220574951,
-        "question_id": 45042,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/45042/how-do-you-retrieve-the-commit-message-and-file-list-for-a-particular-revision",
-        "title": "How do you retrieve the commit message and file list for a particular revision?"
+          "tags": [
+              "java",
+              "azure",
+              "azure-functions"
+          ],
+          "owner": {
+              "account_id": 3375229,
+              "reputation": 1564,
+              "user_id": 2833484,
+              "user_type": "registered",
+              "accept_rate": 81,
+              "profile_image": "https://i.sstatic.net/HaNgM.jpg?s=256",
+              "display_name": "Ramar",
+              "link": "https://stackoverflow.com/users/2833484/ramar"
+          },
+          "is_answered": false,
+          "view_count": 15,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732245727,
+          "creation_date": 1732245727,
+          "question_id": 79213527,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213527/azure-function-binding-name-and-blob-client",
+          "title": "Azure function, binding name and blob client"
       },
       {
-        "tags": [
-          "c++",
-          "visual-studio",
-          "gcc",
-          "linker"
-        ],
-        "owner": {
-          "account_id": 1199,
-          "reputation": 15646,
-          "user_id": 1597,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/c837c9ab2719230c1bf659efff2cea0a?s=256&d=identicon&r=PG",
-          "display_name": "Landon",
-          "link": "https://stackoverflow.com/users/1597/landon"
-        },
-        "is_answered": true,
-        "view_count": 1617,
-        "accepted_answer_id": 43304,
-        "answer_count": 5,
-        "score": 8,
-        "last_activity_date": 1220597682,
-        "creation_date": 1220504199,
-        "last_edit_date": 1221070438,
-        "question_id": 43194,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/43194/mixing-c-c-libraries",
-        "title": "Mixing C/C++ Libraries"
+          "tags": [
+              "sql",
+              "sqlite",
+              "connection"
+          ],
+          "owner": {
+              "account_id": 37782682,
+              "reputation": 1,
+              "user_id": 28425313,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/03a494406ed3105a1ec2fe4bd30b3b8a?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "Sebastian Gonzalez",
+              "link": "https://stackoverflow.com/users/28425313/sebastian-gonzalez"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732249313,
+          "creation_date": 1732247298,
+          "last_edit_date": 1732249313,
+          "question_id": 79213567,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213567/can-someone-help-and-tell-me-what-is-wrong-with-this-code",
+          "title": "Can someone help and tell me what is wrong with this code?"
       },
       {
-        "tags": [
-          "firefox",
-          "browser",
-          "internet-explorer-8"
-        ],
-        "owner": {
-          "account_id": 149,
-          "reputation": 54725,
-          "user_id": 184,
-          "user_type": "registered",
-          "accept_rate": 85,
-          "profile_image": "https://i.sstatic.net/kqgas.jpg?s=256",
-          "display_name": "Niyaz",
-          "link": "https://stackoverflow.com/users/184/niyaz"
-        },
-        "is_answered": true,
-        "view_count": 4081,
-        "accepted_answer_id": 45448,
-        "answer_count": 3,
-        "score": 18,
-        "last_activity_date": 1220608147,
-        "creation_date": 1220601992,
-        "question_id": 45407,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/45407/is-there-any-difference-between-the-box-models-of-ie8-and-firefox3",
-        "title": "Is there any difference between the box models of IE8 and Firefox3?"
+          "tags": [
+              "r"
+          ],
+          "owner": {
+              "account_id": 34531050,
+              "reputation": 785,
+              "user_id": 26653497,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/57f0c43b7a506e62a809a0872e329884?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "farrow90",
+              "link": "https://stackoverflow.com/users/26653497/farrow90"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732244941,
+          "creation_date": 1732244941,
+          "question_id": 79213509,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213509/simulating-a-random-graph-with-connected-colors",
+          "title": "Simulating a random graph with connected colors?"
       },
       {
-        "tags": [
-          "user-interface",
-          "unix",
-          "solaris"
-        ],
-        "owner": {
-          "account_id": 561634,
-          "reputation": 1375,
-          "user_id": 3006,
-          "user_type": "unregistered",
-          "profile_image": "https://www.gravatar.com/avatar/487b64981464cc35bc721b75c5eb024c?s=256&d=identicon&r=PG",
-          "display_name": "Avinash",
-          "link": "https://stackoverflow.com/users/3006/avinash"
-        },
-        "is_answered": true,
-        "view_count": 1165,
-        "answer_count": 8,
-        "score": 5,
-        "last_activity_date": 1220609246,
-        "creation_date": 1219813163,
-        "last_edit_date": 1219840367,
-        "question_id": 29555,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/29555/gui-toolkit-for-rapid-development",
-        "title": "GUI toolkit for rapid development?"
+          "tags": [
+              "azure",
+              "chatbot",
+              "open-source",
+              "openai-api",
+              "conversational-ai"
+          ],
+          "owner": {
+              "account_id": 18051978,
+              "reputation": 1,
+              "user_id": 19968217,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/b14d408089a0ecebf231f7b01c6b0baa?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "Techman007",
+              "link": "https://stackoverflow.com/users/19968217/techman007"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732247985,
+          "creation_date": 1732246403,
+          "question_id": 79213544,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213544/ai-chatbot-development-choosing-open-source-platforms",
+          "title": "AI Chatbot development, choosing open source platforms"
       },
       {
-        "tags": [
-          "unix",
-          "shell"
-        ],
-        "owner": {
-          "account_id": 1064,
-          "reputation": 55939,
-          "user_id": 1412,
-          "user_type": "registered",
-          "accept_rate": 60,
-          "profile_image": "https://www.gravatar.com/avatar/b31241eac12146518af4ef27cc01a34c?s=256&d=identicon&r=PG",
-          "display_name": "Chris Conway",
-          "link": "https://stackoverflow.com/users/1412/chris-conway"
-        },
-        "is_answered": true,
-        "view_count": 6590,
-        "accepted_answer_id": 42092,
-        "answer_count": 4,
-        "score": 10,
-        "last_activity_date": 1220632728,
-        "creation_date": 1220459450,
-        "last_edit_date": 1220461400,
-        "question_id": 42070,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/42070/why-does-the-bourne-shell-printf-iterate-over-a-s-argument",
-        "title": "Why does the Bourne shell printf iterate over a %s argument?"
+          "tags": [
+              "python"
+          ],
+          "owner": {
+              "account_id": 30120419,
+              "reputation": 1,
+              "user_id": 25222180,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocLfpge8tnzYdxt92RLXyzpD6POdZzhks6Yw5u0sF23I=k-s256",
+              "display_name": "Riano Banoet",
+              "link": "https://stackoverflow.com/users/25222180/riano-banoet"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": -4,
+          "last_activity_date": 1732246549,
+          "creation_date": 1732246549,
+          "question_id": 79213548,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213548/what-about-the-data-in-mechine-learning",
+          "title": "What about the data in Mechine Learning"
       },
       {
-        "tags": [
-          "architecture"
-        ],
-        "owner": {
-          "account_id": 820,
-          "reputation": 3296,
-          "user_id": 1071,
-          "user_type": "registered",
-          "accept_rate": 78,
-          "profile_image": "https://www.gravatar.com/avatar/8dab45e5ca5f4ca03e3ba355d2410d00?s=256&d=identicon&r=PG",
-          "display_name": "tim",
-          "link": "https://stackoverflow.com/users/1071/tim"
-        },
-        "is_answered": true,
-        "view_count": 876,
-        "answer_count": 3,
-        "score": 3,
-        "last_activity_date": 1220636404,
-        "creation_date": 1220633410,
-        "last_edit_date": 1220636134,
-        "question_id": 46280,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/46280/web-site-structure-architecture",
-        "title": "web site structure/architecture"
+          "tags": [
+              "c#",
+              "smtp",
+              "gmail"
+          ],
+          "owner": {
+              "account_id": 22267,
+              "reputation": 9431,
+              "user_id": 54760,
+              "user_type": "registered",
+              "accept_rate": 54,
+              "profile_image": "https://i.sstatic.net/a9Nf9.jpg?s=256",
+              "display_name": "xarzu",
+              "link": "https://stackoverflow.com/users/54760/xarzu"
+          },
+          "is_answered": false,
+          "view_count": 13,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732245132,
+          "creation_date": 1732245132,
+          "question_id": 79213513,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213513/i-am-having-an-issue-with-gmail-smtp-in-a-c-program",
+          "title": "I am having an issue with GMAIL SMTP in a C# program"
       },
       {
-        "tags": [
-          "linq",
-          "functional-programming"
-        ],
-        "owner": {
-          "account_id": 600,
-          "reputation": 29610,
-          "user_id": 781,
-          "user_type": "registered",
-          "accept_rate": 96,
-          "profile_image": "https://www.gravatar.com/avatar/1a94125025af7fa5ab127175c2e6733d?s=256&d=identicon&r=PG",
-          "display_name": "Esteban Araya",
-          "link": "https://stackoverflow.com/users/781/esteban-araya"
-        },
-        "is_answered": true,
-        "view_count": 227,
-        "accepted_answer_id": 46206,
-        "answer_count": 3,
-        "score": 7,
-        "last_activity_date": 1220640666,
-        "creation_date": 1220631436,
-        "question_id": 46189,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/46189/mapping-collections-with-linq",
-        "title": "Mapping collections with LINQ"
+          "tags": [
+              "vba"
+          ],
+          "owner": {
+              "account_id": 37779976,
+              "reputation": 1,
+              "user_id": 28423913,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/68548a45e22eb9ab03f79e4dd6858861?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "intern444",
+              "link": "https://stackoverflow.com/users/28423913/intern444"
+          },
+          "is_answered": false,
+          "view_count": 12,
+          "answer_count": 0,
+          "score": -3,
+          "last_activity_date": 1732245495,
+          "creation_date": 1732245495,
+          "question_id": 79213523,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213523/how-do-i-run-the-vba-code-having-trouble",
+          "title": "How do I run the VBA code, having trouble"
       },
       {
-        "tags": [
-          "python",
-          "mapping",
-          "iteration"
-        ],
-        "owner": {
-          "account_id": 2576,
-          "reputation": 71244,
-          "user_id": 3594,
-          "user_type": "registered",
-          "accept_rate": 95,
-          "profile_image": "https://www.gravatar.com/avatar/5928057c2aff65b162eb34d5cc3797fa?s=256&d=identicon&r=PG",
-          "display_name": "cdleary",
-          "link": "https://stackoverflow.com/users/3594/cdleary"
-        },
-        "is_answered": true,
-        "view_count": 864,
-        "accepted_answer_id": 35582,
-        "answer_count": 1,
-        "score": 14,
-        "last_activity_date": 1220642537,
-        "creation_date": 1220061065,
-        "last_edit_date": 1220642537,
-        "question_id": 35569,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/35569/why-does-pythons-iter-on-a-mapping-return-iterkeys-instead-of-iteritems",
-        "title": "Why does Python&#39;s iter() on a mapping return iterkeys() instead of iteritems()?"
+          "tags": [
+              "javascript",
+              "asp.net-mvc",
+              "signalr",
+              "signalr.client"
+          ],
+          "owner": {
+              "account_id": 2431414,
+              "reputation": 1793,
+              "user_id": 2122217,
+              "user_type": "registered",
+              "accept_rate": 22,
+              "profile_image": "https://www.gravatar.com/avatar/49a4ac24bbb6d7f0ecaa68cfa110cb1c?s=256&d=identicon&r=PG",
+              "display_name": "Gabriel Llorico",
+              "link": "https://stackoverflow.com/users/2122217/gabriel-llorico"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732246122,
+          "creation_date": 1732246122,
+          "question_id": 79213540,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213540/pressing-back-button-still-calls-ondisconnect-signalr",
+          "title": "Pressing Back button still calls ondisconnect - SignalR"
       },
       {
-        "tags": [
-          "standards",
-          "coding-style"
-        ],
-        "owner": {
-          "account_id": 2905,
-          "reputation": 18291,
-          "user_id": 4115,
-          "user_type": "registered",
-          "accept_rate": 86,
-          "profile_image": "https://www.gravatar.com/avatar/6f9b0c7290870141ca0f8bbcb17cf04e?s=256&d=identicon&r=PG",
-          "display_name": "Ben Griswold",
-          "link": "https://stackoverflow.com/users/4115/ben-griswold"
-        },
-        "is_answered": true,
-        "view_count": 2181,
-        "accepted_answer_id": 46618,
-        "answer_count": 6,
-        "score": 16,
-        "last_activity_date": 1220643916,
-        "creation_date": 1220641466,
-        "question_id": 46584,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/46584/when-should-one-use-a-project-reference-opposed-to-a-binary-reference",
-        "title": "When should one use a project reference opposed to a binary reference?"
+          "tags": [
+              "flutter",
+              "dart",
+              "just-audio",
+              "audio-service"
+          ],
+          "owner": {
+              "account_id": 20214637,
+              "reputation": 82,
+              "user_id": 14825828,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgeskFls18nGlT7sn-Wn1dGlFxZ6jEPf3K9FS8ZUw=k-s256",
+              "display_name": "Sudip Mahanta",
+              "link": "https://stackoverflow.com/users/14825828/sudip-mahanta"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732245959,
+          "creation_date": 1732245959,
+          "question_id": 79213534,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213534/how-can-i-get-amplitude-of-audio-playing-in-flutter",
+          "title": "How can I get amplitude of audio playing in flutter?"
       },
       {
-        "tags": [
-          "c#",
-          "asp.net",
-          "visual-studio",
-          "web-services",
-          "iis"
-        ],
-        "owner": {
-          "account_id": 1849,
-          "reputation": 7268,
-          "user_id": 2543,
-          "user_type": "registered",
-          "accept_rate": 93,
-          "profile_image": "https://www.gravatar.com/avatar/5ff1e1b35d1fc13baf08d807fb2097a7?s=256&d=identicon&r=PG",
-          "display_name": "Jared Updike",
-          "link": "https://stackoverflow.com/users/2543/jared-updike"
-        },
-        "is_answered": true,
-        "view_count": 1164,
-        "accepted_answer_id": 47221,
-        "answer_count": 2,
-        "score": 2,
-        "last_activity_date": 1220670566,
-        "creation_date": 1220054109,
-        "question_id": 35479,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/35479/exception-in-web-service-locks-dll-and-prevents-publishing-workaround",
-        "title": "Exception in Web Service locks DLL and prevents publishing. Workaround?"
+          "tags": [
+              "python",
+              "numpy",
+              "half-precision-float"
+          ],
+          "owner": {
+              "account_id": 19939347,
+              "reputation": 11,
+              "user_id": 15926490,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gjax_K5tmTUaLLIUscqlcvyJ63jeaQENW-X6ZV4=k-s256",
+              "display_name": "Cestimium",
+              "link": "https://stackoverflow.com/users/15926490/cestimium"
+          },
+          "is_answered": true,
+          "view_count": 27,
+          "answer_count": 1,
+          "score": 1,
+          "last_activity_date": 1732244025,
+          "creation_date": 1732242906,
+          "question_id": 79213461,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213461/what-makes-printnp-half500-2-differs-from-printfnp-half500-2",
+          "title": "What makes `print(np.half(500.2))` differs from `print(f&quot;{np.half(500.2)}&quot;)`"
       },
       {
-        "tags": [
-          "asp.net",
-          "web-applications",
-          "custom-server-controls"
-        ],
-        "owner": {
-          "account_id": 2352,
-          "reputation": 28386,
-          "user_id": 3263,
-          "user_type": "registered",
-          "accept_rate": 89,
-          "profile_image": "https://www.gravatar.com/avatar/544cec6fd42d60286e3a13edbf96aab0?s=256&d=identicon&r=PG",
-          "display_name": "Radu094",
-          "link": "https://stackoverflow.com/users/3263/radu094"
-        },
-        "is_answered": true,
-        "view_count": 1020,
-        "accepted_answer_id": 47344,
-        "answer_count": 2,
-        "score": 3,
-        "last_activity_date": 1220691777,
-        "creation_date": 1220689822,
-        "question_id": 47329,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/47329/usercontrol-rendering-write-link-to-current-page",
-        "title": "UserControl rendering: write link to current page?"
+          "tags": [
+              "c++",
+              "linker",
+              "vulkan"
+          ],
+          "owner": {
+              "account_id": 32795968,
+              "reputation": 1,
+              "user_id": 25487445,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/2d3064237af165959e6068295f0d42fe?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "BizzarraK",
+              "link": "https://stackoverflow.com/users/25487445/bizzarrak"
+          },
+          "is_answered": true,
+          "view_count": 24,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732246157,
+          "creation_date": 1732240270,
+          "last_edit_date": 1732246157,
+          "question_id": 79213412,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213412/linux-cant-find-my-directories-when-linking",
+          "title": "Linux can&#39;t find my directories when linking"
       },
       {
-        "tags": [
-          "database-design",
-          "web-applications"
-        ],
-        "owner": {
-          "account_id": 2063,
-          "reputation": 18043,
-          "user_id": 2841,
-          "user_type": "registered",
-          "accept_rate": 71,
-          "profile_image": "https://www.gravatar.com/avatar/7ef637bfe1467faf361c768e9e6894f5?s=256&d=identicon&r=PG",
-          "display_name": "Farinha",
-          "link": "https://stackoverflow.com/users/2841/farinha"
-        },
-        "is_answered": true,
-        "view_count": 9109,
-        "closed_date": 1358230389,
-        "accepted_answer_id": 47501,
-        "answer_count": 4,
-        "score": 5,
-        "last_activity_date": 1220736108,
-        "creation_date": 1220710610,
-        "last_edit_date": 1220998431,
-        "question_id": 47486,
-        "link": "https://stackoverflow.com/questions/47486/tips-for-database-design-in-a-web-application",
-        "closed_reason": "not constructive",
-        "title": "Tips for database design in a web application"
+          "tags": [
+              "node.js",
+              "google-cloud-firestore",
+              "google-cloud-functions",
+              "google-cloud-run"
+          ],
+          "owner": {
+              "account_id": 3354388,
+              "reputation": 851,
+              "user_id": 2817697,
+              "user_type": "registered",
+              "accept_rate": 77,
+              "profile_image": "https://www.gravatar.com/avatar/9bfdaf3b075bd2a5043aaf98aed0d519?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "rkh",
+              "link": "https://stackoverflow.com/users/2817697/rkh"
+          },
+          "is_answered": true,
+          "view_count": 20,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732243328,
+          "creation_date": 1732242396,
+          "last_edit_date": 1732243130,
+          "question_id": 79213454,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213454/firestore-written-trigger-issues",
+          "title": "firestore written trigger issues"
       },
       {
-        "tags": [
-          "linux",
-          "ocaml",
-          "godi"
-        ],
-        "owner": {
-          "account_id": 129,
-          "reputation": 47888,
-          "user_id": 157,
-          "user_type": "registered",
-          "accept_rate": 95,
-          "profile_image": "https://www.gravatar.com/avatar/5c4d195536d28df970410dace14870c1?s=256&d=identicon&r=PG",
-          "display_name": "nlucaroni",
-          "link": "https://stackoverflow.com/users/157/nlucaroni"
-        },
-        "is_answered": true,
-        "view_count": 902,
-        "accepted_answer_id": 47678,
-        "answer_count": 2,
-        "score": 7,
-        "last_activity_date": 1220742879,
-        "creation_date": 1220686591,
-        "last_edit_date": 1220741296,
-        "question_id": 47309,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/47309/godi-installation-issue",
-        "title": "GODI installation issue"
+          "tags": [
+              "javascript",
+              "html"
+          ],
+          "owner": {
+              "account_id": 26117694,
+              "reputation": 1,
+              "user_id": 19810543,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/ced2b3fee6297e9d2847ca4305bc44fa?s=256&d=identicon&r=PG",
+              "display_name": "newtowebapp",
+              "link": "https://stackoverflow.com/users/19810543/newtowebapp"
+          },
+          "is_answered": false,
+          "view_count": 23,
+          "answer_count": 1,
+          "score": -1,
+          "last_activity_date": 1732246855,
+          "creation_date": 1732239627,
+          "last_edit_date": 1732240866,
+          "question_id": 79213392,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213392/how-to-get-true-false-or-checked-unchecked-or-1-0-from-html-checkbox",
+          "title": "How to get TRUE / FALSE or CHECKED / UNCHECKED or 1 / 0 from html checkbox"
       },
       {
-        "tags": [
-          "ruby",
-          "syntax"
-        ],
-        "owner": {
-          "account_id": 2922,
-          "reputation": 2328,
-          "user_id": 4142,
-          "user_type": "registered",
-          "accept_rate": 75,
-          "profile_image": "https://www.gravatar.com/avatar/957e2767e8cea3676aecc10661e3b511?s=256&d=identicon&r=PG",
-          "display_name": "Nathan Fritz",
-          "link": "https://stackoverflow.com/users/4142/nathan-fritz"
-        },
-        "is_answered": true,
-        "view_count": 1787,
-        "accepted_answer_id": 43146,
-        "answer_count": 2,
-        "score": 27,
-        "last_activity_date": 1220754189,
-        "creation_date": 1220498491,
-        "question_id": 43134,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/43134/is-there-a-difference-between-and-when-calling-class-methods-in-ruby",
-        "title": "Is there a difference between :: and . when calling class methods in Ruby?"
+          "tags": [
+              "java",
+              "mysql",
+              "netbeans",
+              "desktop-application"
+          ],
+          "owner": {
+              "account_id": 37780971,
+              "reputation": 1,
+              "user_id": 28424423,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/8c2ed49332bc152df6b8c58532fc9f73?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "user28424423",
+              "link": "https://stackoverflow.com/users/28424423/user28424423"
+          },
+          "is_answered": false,
+          "view_count": 20,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732242540,
+          "creation_date": 1732242540,
+          "question_id": 79213456,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213456/how-do-i-deploy-my-netbeans-java-desktop-application-project-for-other-devices-t",
+          "title": "How do i deploy my netbeans java desktop application project for other devices to access?"
       },
       {
-        "tags": [
-          ".net",
-          "exception",
-          "windows-services"
-        ],
-        "owner": {
-          "account_id": 880,
-          "reputation": 5799,
-          "user_id": 1154,
-          "user_type": "registered",
-          "accept_rate": 100,
-          "profile_image": "https://www.gravatar.com/avatar/e2c78ceb1cbf0fa95fc3a1bca92db9a8?s=256&d=identicon&r=PG",
-          "display_name": "Jedi Master Spooky",
-          "link": "https://stackoverflow.com/users/1154/jedi-master-spooky"
-        },
-        "is_answered": true,
-        "view_count": 410,
-        "accepted_answer_id": 48837,
-        "answer_count": 2,
-        "score": 3,
-        "last_activity_date": 1220825492,
-        "creation_date": 1220819560,
-        "last_edit_date": 1220822001,
-        "question_id": 48757,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/48757/unhandled-exceptions-filter-in-a-windows-service",
-        "title": "Unhandled exceptions filter in a windows service"
+          "tags": [
+              "c++",
+              "language-lawyer",
+              "atomic"
+          ],
+          "owner": {
+              "account_id": 16334089,
+              "reputation": 7379,
+              "user_id": 11796722,
+              "user_type": "registered",
+              "profile_image": "https://lh6.googleusercontent.com/-hbVqmiJejgo/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rehNL7lbCriSOGqR5fVrWy6CjMYYA/photo.jpg?sz=256",
+              "display_name": "xmh0511",
+              "link": "https://stackoverflow.com/users/11796722/xmh0511"
+          },
+          "is_answered": false,
+          "view_count": 18,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732243935,
+          "creation_date": 1732243935,
+          "question_id": 79213481,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213481/does-this-result-depend-on-out-of-thin-air-value",
+          "title": "Does this result depend on out-of-thin-air value?"
       },
       {
-        "tags": [
-          "cd",
-          "embeddedwebserver"
-        ],
-        "owner": {
-          "account_id": 1317,
-          "reputation": 6571,
-          "user_id": 1753,
-          "user_type": "registered",
-          "accept_rate": 82,
-          "profile_image": "https://www.gravatar.com/avatar/0a1a220854cb0e2a7d4d7a1e1bc638b8?s=256&d=identicon&r=PG",
-          "display_name": "Nathan DeWitt",
-          "link": "https://stackoverflow.com/users/1753/nathan-dewitt"
-        },
-        "is_answered": true,
-        "view_count": 1197,
-        "closed_date": 1493553396,
-        "answer_count": 10,
-        "score": 13,
-        "last_activity_date": 1220838507,
-        "creation_date": 1220465469,
-        "question_id": 42239,
-        "link": "https://stackoverflow.com/questions/42239/make-a-cd-run-once",
-        "closed_reason": "Needs more focus",
-        "title": "Make a CD run once"
+          "tags": [
+              "azure",
+              "azure-sql-database",
+              "azure-virtual-network"
+          ],
+          "owner": {
+              "account_id": 5230660,
+              "reputation": 711,
+              "user_id": 5855178,
+              "user_type": "registered",
+              "accept_rate": 32,
+              "profile_image": "https://www.gravatar.com/avatar/a36d50bf8663af5c2023db69e00037c2?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "user5855178",
+              "link": "https://stackoverflow.com/users/5855178/user5855178"
+          },
+          "is_answered": false,
+          "view_count": 17,
+          "answer_count": 1,
+          "score": -2,
+          "last_activity_date": 1732249557,
+          "creation_date": 1732239857,
+          "last_edit_date": 1732249557,
+          "question_id": 79213400,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213400/azure-cloud-how-to-access-sql-database-hosted-in-azure-cloud-with-public-acces",
+          "title": "Azure cloud - how to access SQL database hosted in Azure cloud with public access disabled from on premises SSMS"
       },
       {
-        "tags": [
-          "programming-languages",
-          "naming"
-        ],
-        "owner": {
-          "account_id": 149,
-          "reputation": 54725,
-          "user_id": 184,
-          "user_type": "registered",
-          "accept_rate": 85,
-          "profile_image": "https://i.sstatic.net/kqgas.jpg?s=256",
-          "display_name": "Niyaz",
-          "link": "https://stackoverflow.com/users/184/niyaz"
-        },
-        "is_answered": true,
-        "view_count": 785,
-        "accepted_answer_id": 49530,
-        "answer_count": 6,
-        "score": 1,
-        "last_activity_date": 1220877081,
-        "creation_date": 1220866855,
-        "question_id": 49382,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/49382/what-are-the-preferred-conventions-in-naming-attributes-methods-and-classes-in",
-        "title": "What are the preferred conventions in naming attributes, methods and classes in different languages?"
+          "tags": [
+              "c#",
+              "asp.net",
+              "iis",
+              "windows-server",
+              "application-pool"
+          ],
+          "owner": {
+              "account_id": 10143815,
+              "reputation": 565,
+              "user_id": 7492645,
+              "user_type": "registered",
+              "profile_image": "https://i.sstatic.net/BYqjM.jpg?s=256",
+              "display_name": "Ross Kelly",
+              "link": "https://stackoverflow.com/users/7492645/ross-kelly"
+          },
+          "is_answered": false,
+          "view_count": 17,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732249343,
+          "creation_date": 1732239153,
+          "last_edit_date": 1732249343,
+          "question_id": 79213376,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213376/asp-net-website-constantly-requires-sign-in",
+          "title": "ASP.NET Website Constantly Requires Sign-In"
       },
       {
-        "tags": [
-          "web-services",
-          "application-integration"
-        ],
-        "owner": {
-          "account_id": 279,
-          "reputation": 1831,
-          "user_id": 349,
-          "user_type": "registered",
-          "accept_rate": 62,
-          "profile_image": "https://www.gravatar.com/avatar/47ebce52bf7c1f07a4bca41e6543e940?s=256&d=identicon&r=PG",
-          "display_name": "Edo",
-          "link": "https://stackoverflow.com/users/349/edo"
-        },
-        "is_answered": true,
-        "view_count": 18403,
-        "accepted_answer_id": 1724,
-        "answer_count": 8,
-        "score": 24,
-        "last_activity_date": 1220877303,
-        "creation_date": 1217893414,
-        "last_edit_date": 1219517043,
-        "question_id": 1709,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/1709/how-to-pass-enumerated-values-to-a-web-service",
-        "title": "How to pass enumerated values to a web service"
+          "tags": [
+              "r",
+              "quarto",
+              "tableofcontents"
+          ],
+          "owner": {
+              "account_id": 14530533,
+              "reputation": 111,
+              "user_id": 16435644,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/74b5f9a20000f7abaf32689454cb4a36?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "T1802173",
+              "link": "https://stackoverflow.com/users/16435644/t1802173"
+          },
+          "is_answered": false,
+          "view_count": 16,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732243307,
+          "creation_date": 1732242915,
+          "last_edit_date": 1732243307,
+          "question_id": 79213462,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213462/how-to-loop-through-a-dataframe-to-create-a-table-of-contents-in-quarto",
+          "title": "How to loop through a dataframe to create a table of contents in quarto"
       },
       {
-        "tags": [
-          "unit-testing",
-          "testing",
-          "tdd"
-        ],
-        "owner": {
-          "account_id": 1789,
-          "reputation": 7879,
-          "user_id": 2455,
-          "user_type": "registered",
-          "accept_rate": 82,
-          "profile_image": "https://www.gravatar.com/avatar/1c04ce7ce6ac1ac03481475f27b78881?s=256&d=identicon&r=PG",
-          "display_name": "Andrew Harmel-Law",
-          "link": "https://stackoverflow.com/users/2455/andrew-harmel-law"
-        },
-        "is_answered": true,
-        "view_count": 2281,
-        "closed_date": 1380316619,
-        "accepted_answer_id": 47729,
-        "answer_count": 4,
-        "score": 10,
-        "last_activity_date": 1220878943,
-        "creation_date": 1220723871,
-        "question_id": 47692,
-        "link": "https://stackoverflow.com/questions/47692/how-do-i-become-test-infected-with-tdd",
-        "closed_reason": "Opinion-based",
-        "title": "How do I become &quot;test infected&quot; with TDD?"
+          "tags": [
+              "c#",
+              "inheritance",
+              "entity-framework-core",
+              ".net-9.0"
+          ],
+          "owner": {
+              "account_id": 191027,
+              "reputation": 14663,
+              "user_id": 938668,
+              "user_type": "registered",
+              "accept_rate": 96,
+              "profile_image": "https://i.sstatic.net/iEBVp.jpg?s=256",
+              "display_name": "Raheel Khan",
+              "link": "https://stackoverflow.com/users/938668/raheel-khan"
+          },
+          "is_answered": false,
+          "view_count": 16,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732249461,
+          "creation_date": 1732240604,
+          "last_edit_date": 1732249461,
+          "question_id": 79213418,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213418/ignoring-a-base-type-in-entity-framework-core-9-code-first",
+          "title": "Ignoring a base type in Entity Framework Core 9 code-first"
       },
       {
-        "tags": [
-          "build-automation",
-          "nant"
-        ],
-        "owner": {
-          "account_id": 2378,
-          "reputation": 1014,
-          "user_id": 3294,
-          "user_type": "registered",
-          "profile_image": "https://www.gravatar.com/avatar/5138e2c61c9f893f194819dbd4d7d562?s=256&d=identicon&r=PG",
-          "display_name": "Steven Williams",
-          "link": "https://stackoverflow.com/users/3294/steven-williams"
-        },
-        "is_answered": true,
-        "view_count": 5752,
-        "accepted_answer_id": 49697,
-        "answer_count": 1,
-        "score": 8,
-        "last_activity_date": 1220880202,
-        "creation_date": 1220878471,
-        "question_id": 49623,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/49623/nant-copy-and-maintain-directory-structure",
-        "title": "Nant &lt;copy&gt; and maintain directory structure"
+          "tags": [
+              "python",
+              "list",
+              "singleton"
+          ],
+          "owner": {
+              "account_id": 37680332,
+              "reputation": 1,
+              "user_id": 28370211,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/5d6c023fb0f27cb173bb23cff4937408?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "BhavaniAsritha1224",
+              "link": "https://stackoverflow.com/users/28370211/bhavaniasritha1224"
+          },
+          "is_answered": false,
+          "view_count": 18,
+          "closed_date": 1732244508,
+          "answer_count": 0,
+          "score": -5,
+          "last_activity_date": 1732243758,
+          "creation_date": 1732243758,
+          "question_id": 79213478,
+          "link": "https://stackoverflow.com/questions/79213478/what-are-lists-in-python",
+          "closed_reason": "Needs more focus",
+          "title": "what are lists in python"
       },
       {
-        "tags": [
-          "language-agnostic",
-          "search",
-          "debugging",
-          "code-coverage"
-        ],
-        "owner": {
-          "account_id": 610,
-          "reputation": 117803,
-          "user_id": 797,
-          "user_type": "registered",
-          "accept_rate": 66,
-          "profile_image": "https://www.gravatar.com/avatar/aef85130bf44caa9b4de0a3153e758f2?s=256&d=identicon&r=PG",
-          "display_name": "Matt Sheppard",
-          "link": "https://stackoverflow.com/users/797/matt-sheppard"
-        },
-        "is_answered": true,
-        "view_count": 144,
-        "answer_count": 1,
-        "score": 1,
-        "last_activity_date": 1220880241,
-        "creation_date": 1220758694,
-        "last_edit_date": 1220880241,
-        "question_id": 48110,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/48110/free-text-search-integrated-with-code-coverage",
-        "title": "Free text search integrated with code coverage"
+          "tags": [
+              "linux",
+              "cuda",
+              "gpu"
+          ],
+          "owner": {
+              "account_id": 37781332,
+              "reputation": 1,
+              "user_id": 28424605,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/42bbbc4176c3808a096f9a03793383ee?s=256&d=identicon&r=PG&f=y&so-version=2",
+              "display_name": "최찬우",
+              "link": "https://stackoverflow.com/users/28424605/%ec%b5%9c%ec%b0%ac%ec%9a%b0"
+          },
+          "is_answered": false,
+          "view_count": 14,
+          "answer_count": 0,
+          "score": -1,
+          "last_activity_date": 1732243390,
+          "creation_date": 1732243260,
+          "last_edit_date": 1732243390,
+          "question_id": 79213469,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213469/grant-gpu-permissions-on-linux-server",
+          "title": "grant gpu permissions on linux server"
       },
       {
-        "tags": [
-          "sql-server"
-        ],
-        "owner": {
-          "account_id": 1700,
-          "reputation": 25031,
-          "user_id": 2291,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/52c5b2df0b28f6efc9d50e4d0d47e42a?s=256&d=identicon&r=PG",
-          "display_name": "Jon Adams",
-          "link": "https://stackoverflow.com/users/2291/jon-adams"
-        },
-        "is_answered": true,
-        "view_count": 1335,
-        "accepted_answer_id": 50015,
-        "answer_count": 1,
-        "score": 1,
-        "last_activity_date": 1220889191,
-        "creation_date": 1220889060,
-        "last_edit_date": 1495541614,
-        "question_id": 50003,
-        "content_license": "CC BY-SA 3.0",
-        "link": "https://stackoverflow.com/questions/50003/sql-2000-database-copy-to-sql-2005-options",
-        "title": "SQL 2000 database copy to SQL 2005 options"
+          "tags": [
+              "swift",
+              "swiftui"
+          ],
+          "owner": {
+              "account_id": 19039530,
+              "reputation": 16941,
+              "user_id": 13899957,
+              "user_type": "registered",
+              "profile_image": "https://i.sstatic.net/zijZN.png?s=256",
+              "display_name": "swiftPunk",
+              "link": "https://stackoverflow.com/users/13899957/swiftpunk"
+          },
+          "is_answered": false,
+          "view_count": 13,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732240916,
+          "creation_date": 1732240916,
+          "question_id": 79213429,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213429/how-can-i-match-the-fixed-range-of-a-slider-to-a-dynamic-range-in-swiftui",
+          "title": "How can I match the fixed range of a slider to a dynamic range in SwiftUI?"
       },
       {
-        "tags": [
-          "asp.net",
-          "regex"
-        ],
-        "owner": {
-          "account_id": 2311,
-          "reputation": 54852,
-          "user_id": 3208,
-          "user_type": "registered",
-          "accept_rate": 86,
-          "profile_image": "https://www.gravatar.com/avatar/8092a4ad249c669a8e833fe49f4b4052?s=256&d=identicon&r=PG",
-          "display_name": "Brian G",
-          "link": "https://stackoverflow.com/users/3208/brian-g"
-        },
-        "is_answered": true,
-        "view_count": 1260,
-        "accepted_answer_id": 49938,
-        "answer_count": 5,
-        "score": 5,
-        "last_activity_date": 1220889431,
-        "creation_date": 1220887042,
-        "question_id": 49919,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/49919/regex-to-match-first-28-days-of-the-month",
-        "title": "Regex to Match first 28 days of the month"
+          "tags": [
+              "rust",
+              "rust-cargo",
+              "tauri"
+          ],
+          "owner": {
+              "account_id": 3217958,
+              "reputation": 3042,
+              "user_id": 2716095,
+              "user_type": "registered",
+              "accept_rate": 60,
+              "profile_image": "https://www.gravatar.com/avatar/ca9e9798ce861968d24a17787c1b15f4?s=256&d=identicon&r=PG",
+              "display_name": "marcelo.delta",
+              "link": "https://stackoverflow.com/users/2716095/marcelo-delta"
+          },
+          "is_answered": false,
+          "view_count": 12,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732243969,
+          "creation_date": 1732243969,
+          "question_id": 79213484,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213484/the-sqlite-used-in-tauri-2-is-there-any-security-barrier-to-accessing-the-conten",
+          "title": "The SQLite used in tauri 2 is there any security barrier to accessing the content?"
       },
       {
-        "tags": [
-          "security",
-          "sharepoint"
-        ],
-        "owner": {
-          "account_id": 323,
-          "reputation": 25336,
-          "user_id": 404,
-          "user_type": "registered",
-          "accept_rate": 73,
-          "profile_image": "https://www.gravatar.com/avatar/0a99e26b3a51cd326e188a6a60de1eb6?s=256&d=identicon&r=PG",
-          "display_name": "Chris Farmer",
-          "link": "https://stackoverflow.com/users/404/chris-farmer"
-        },
-        "is_answered": true,
-        "view_count": 562,
-        "accepted_answer_id": 50081,
-        "answer_count": 1,
-        "score": 5,
-        "last_activity_date": 1220892412,
-        "creation_date": 1220889528,
-        "question_id": 50037,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/50037/what-are-some-good-sharepoint-security-resources",
-        "title": "What are some good SharePoint security resources?"
+          "tags": [
+              "google-sheets",
+              "google-sheets-formula"
+          ],
+          "owner": {
+              "account_id": 1401970,
+              "reputation": 7716,
+              "user_id": 1330560,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/38ea833bd967a86d85d7ffa9cbb6c38d?s=256&d=identicon&r=PG",
+              "display_name": "Tedinoz",
+              "link": "https://stackoverflow.com/users/1330560/tedinoz"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 0,
+          "score": 0,
+          "last_activity_date": 1732241531,
+          "creation_date": 1732241531,
+          "question_id": 79213442,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213442/can-a-label-in-a-google-sheets-query-be-dynamic-can-it-reference-a-variable",
+          "title": "Can a label in a Google Sheets Query be dynamic; can it reference a variable?"
       },
       {
-        "tags": [
-          "vmware",
-          "virtualization",
-          "vmware-server"
-        ],
-        "owner": {
-          "account_id": 880,
-          "reputation": 5799,
-          "user_id": 1154,
-          "user_type": "registered",
-          "accept_rate": 100,
-          "profile_image": "https://www.gravatar.com/avatar/e2c78ceb1cbf0fa95fc3a1bca92db9a8?s=256&d=identicon&r=PG",
-          "display_name": "Jedi Master Spooky",
-          "link": "https://stackoverflow.com/users/1154/jedi-master-spooky"
-        },
-        "is_answered": true,
-        "view_count": 1364,
-        "closed_date": 1496348822,
-        "accepted_answer_id": 46226,
-        "answer_count": 3,
-        "score": 2,
-        "last_activity_date": 1220893747,
-        "creation_date": 1220550359,
-        "question_id": 44294,
-        "link": "https://stackoverflow.com/questions/44294/enabled-brigded-network-in-vmware-server",
-        "closed_reason": "Not suitable for this site",
-        "title": "Enabled Brigded Network in Vmware Server"
+          "tags": [
+              "xml",
+              "xpath"
+          ],
+          "owner": {
+              "account_id": 29923081,
+              "reputation": 3,
+              "user_id": 22931760,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/ACg8ocISB4Rwrgck9VF82yefkXRVO00th2M8cRKJNsNOjEJ33i0=k-s256",
+              "display_name": "JPO",
+              "link": "https://stackoverflow.com/users/22931760/jpo"
+          },
+          "is_answered": false,
+          "view_count": 11,
+          "answer_count": 1,
+          "score": 0,
+          "last_activity_date": 1732245200,
+          "creation_date": 1732239205,
+          "question_id": 79213378,
+          "content_license": "CC BY-SA 4.0",
+          "link": "https://stackoverflow.com/questions/79213378/what-is-the-xpath-query-to-return-a-defined-element",
+          "title": "What is the XPath query to return a defined element"
       }
-    ],
-    "has_more": true,
-    "quota_max": 10000,
-    "quota_remaining": 9655
-  }
+  ],
+  "has_more": true,
+  "backoff": 10,
+  "quota_max": 300,
+  "quota_remaining": 280
+}

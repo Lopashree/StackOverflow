@@ -1,846 +1,821 @@
 {
-    "items": [
-      {
-        "tags": [
-          "asp.net-mvc"
-        ],
-        "owner": {
-          "account_id": 2962,
-          "reputation": 2297,
-          "user_id": 4204,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/61273477b46f3d7e57c6cbb51d38301e?s=256&d=identicon&r=PG",
-          "display_name": "Mihai Lazar",
-          "link": "https://stackoverflow.com/users/4204/mihai-lazar"
-        },
-        "is_answered": false,
-        "view_count": 1966,
-        "closed_date": 1647105847,
-        "answer_count": 0,
-        "score": 12,
-        "last_activity_date": 1220532625,
-        "creation_date": 1220508765,
-        "last_edit_date": 1220528186,
-        "question_id": 43243,
-        "link": "https://stackoverflow.com/questions/43243/how-does-web-routing-work",
-        "closed_reason": "Needs more focus",
-        "title": "How does Web Routing Work?"
+  "items": [
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "numpy",
+        "types"
+      ],
+      "owner": {
+        "account_id": 1762936,
+        "reputation": 11493,
+        "user_id": 1609514,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/1e62d27c486199ea834abd203fbb841b?s=256&d=identicon&r=PG",
+        "display_name": "Bill",
+        "link": "https://stackoverflow.com/users/1609514/bill"
       },
-      {
-        "tags": [
-          ".net",
-          "wpf",
-          "performance"
-        ],
-        "owner": {
-          "account_id": 77,
-          "reputation": 12266,
-          "user_id": 93,
-          "user_type": "registered",
-          "accept_rate": 95,
-          "profile_image": "https://www.gravatar.com/avatar/ce74962e5a92bca7a49c6595668d4cd4?s=256&d=identicon&r=PG",
-          "display_name": "MojoFilter",
-          "link": "https://stackoverflow.com/users/93/mojofilter"
-        },
-        "is_answered": true,
-        "view_count": 603,
-        "accepted_answer_id": 43771,
-        "answer_count": 1,
-        "score": 10,
-        "last_activity_date": 1220535302,
-        "creation_date": 1220535156,
-        "last_edit_date": 1220535302,
-        "question_id": 43768,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/43768/wpf-control-performance",
-        "title": "WPF control performance"
+      "is_answered": false,
+      "view_count": 30,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732208095,
+      "creation_date": 1732205177,
+      "last_edit_date": 1732205716,
+      "question_id": 79212020,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212020/how-to-write-a-generic-python-function-that-works-with-python-numpy-or-pandas-a",
+      "title": "How to write a generic Python function that works with Python, Numpy or Pandas arguments and returns the same type"
+    },
+    {
+      "tags": [
+        "c++",
+        "visual-studio",
+        "debugging"
+      ],
+      "owner": {
+        "account_id": 5457435,
+        "reputation": 25,
+        "user_id": 4340431,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-f_7Zm7FCJKE/AAAAAAAAAAI/AAAAAAAAAks/RoKpazPEm20/photo.jpg?sz=256",
+        "display_name": "Szymon Rzosinski",
+        "link": "https://stackoverflow.com/users/4340431/szymon-rzosinski"
       },
-      {
-        "tags": [
-          "algorithm",
-          "indexing",
-          "full-text-search"
-        ],
-        "owner": {
-          "account_id": 2968,
-          "reputation": 14501,
-          "user_id": 4213,
-          "user_type": "registered",
-          "accept_rate": 80,
-          "profile_image": "https://i.sstatic.net/oWF0Y.jpg?s=256",
-          "display_name": "Marcio Aguiar",
-          "link": "https://stackoverflow.com/users/4213/marcio-aguiar"
-        },
-        "is_answered": true,
-        "view_count": 424,
-        "accepted_answer_id": 42532,
-        "answer_count": 4,
-        "score": 8,
-        "last_activity_date": 1220535714,
-        "creation_date": 1220473264,
-        "question_id": 42489,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/42489/how-to-implement-a-related-degree-measure-algorithm",
-        "title": "How to implement a &quot;related&quot; degree measure algorithm?"
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732205948,
+      "creation_date": 1732205948,
+      "question_id": 79212074,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212074/what-is-inline-frame-in-c",
+      "title": "What is Inline Frame in c++?"
+    },
+    {
+      "tags": [
+        "c++",
+        "vector"
+      ],
+      "owner": {
+        "account_id": 3710550,
+        "reputation": 1028,
+        "user_id": 3087999,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/22b7d15478863b6ed0d4ad28634b961a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "vipcxj",
+        "link": "https://stackoverflow.com/users/3087999/vipcxj"
       },
-      {
-        "tags": [
-          "php"
-        ],
-        "owner": {
-          "account_id": 2706,
-          "reputation": 5057,
-          "user_id": 3800,
-          "user_type": "registered",
-          "accept_rate": 93,
-          "profile_image": "https://www.gravatar.com/avatar/646f9bc3ae8effa7fa1a1a1c528ff522?s=256&d=identicon&r=PG",
-          "display_name": "Jack B Nimble",
-          "link": "https://stackoverflow.com/users/3800/jack-b-nimble"
-        },
-        "is_answered": true,
-        "view_count": 2006,
-        "closed_date": 1339260946,
-        "accepted_answer_id": 36444,
-        "answer_count": 9,
-        "score": 14,
-        "last_activity_date": 1220541141,
-        "creation_date": 1220135235,
-        "last_edit_date": 1220135307,
-        "question_id": 36417,
-        "link": "https://stackoverflow.com/questions/36417/php-best-practices",
-        "closed_reason": "not constructive",
-        "title": "PHP best practices?"
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732208051,
+      "creation_date": 1732206940,
+      "last_edit_date": 1732208051,
+      "question_id": 79212145,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212145/error-lnk1169-of-stdvectorstdbyte-destructor",
+      "title": "error LNK1169 of std::vector&lt;std::byte&gt; destructor"
+    },
+    {
+      "tags": [
+        "c"
+      ],
+      "owner": {
+        "account_id": 37769436,
+        "reputation": 1,
+        "user_id": 28418750,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5f2a46dc10e37e4da27da1909b905ebe?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "sadek abanoub",
+        "link": "https://stackoverflow.com/users/28418750/sadek-abanoub"
       },
-      {
-        "tags": [
-          "sql-server",
-          "t-sql",
-          "text",
-          "cursors"
-        ],
-        "owner": {
-          "account_id": 766,
-          "reputation": 1720,
-          "user_id": 997,
-          "user_type": "registered",
-          "accept_rate": 81,
-          "profile_image": "https://i.sstatic.net/jibpC.png?s=256",
-          "display_name": "svandragt",
-          "link": "https://stackoverflow.com/users/997/svandragt"
-        },
-        "is_answered": true,
-        "view_count": 824,
-        "accepted_answer_id": 39790,
-        "answer_count": 2,
-        "score": 5,
-        "last_activity_date": 1220543801,
-        "creation_date": 1220366027,
-        "last_edit_date": 1220994825,
-        "question_id": 39674,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/39674/adapt-replace-all-strings-in-all-tables-to-work-with-text",
-        "title": "Adapt Replace all strings in all tables to work with text"
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732209313,
+      "creation_date": 1732208345,
+      "last_edit_date": 1732209313,
+      "question_id": 79212223,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212223/how-can-i-mark-the-end-of-a-line-in-c",
+      "title": "How can I mark the end of a line in C?"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "account_id": 34756824,
+        "reputation": 1,
+        "user_id": 26756307,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/af8e7473d4045298beaddc984e56760c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "bhaskar vanjarapu",
+        "link": "https://stackoverflow.com/users/26756307/bhaskar-vanjarapu"
       },
-      {
-        "tags": [
-          "svn",
-          "version-control"
-        ],
-        "owner": {
-          "account_id": 1860,
-          "reputation": 15168,
-          "user_id": 2567,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/49f710d3da88ca2cf04e7d70ba6ede53?s=256&d=identicon&r=PG&f=y&so-version=2",
-          "display_name": "Dana the Sane",
-          "link": "https://stackoverflow.com/users/2567/dana-the-sane"
-        },
-        "is_answered": true,
-        "view_count": 15793,
-        "accepted_answer_id": 45046,
-        "answer_count": 2,
-        "score": 14,
-        "last_activity_date": 1220576516,
-        "creation_date": 1220574951,
-        "question_id": 45042,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/45042/how-do-you-retrieve-the-commit-message-and-file-list-for-a-particular-revision",
-        "title": "How do you retrieve the commit message and file list for a particular revision?"
+      "is_answered": false,
+      "view_count": 29,
+      "closed_date": 1732206487,
+      "answer_count": 0,
+      "score": -7,
+      "last_activity_date": 1732206391,
+      "creation_date": 1732206391,
+      "question_id": 79212105,
+      "link": "https://stackoverflow.com/questions/79212105/what-is-encapsulation-in-python-oop-and-how-is-it-implemented",
+      "closed_reason": "Needs more focus",
+      "title": "&quot;What is encapsulation in Python OOP, and how is it implemented?&quot;"
+    },
+    {
+      "tags": [
+        "r",
+        "raster",
+        "netcdf",
+        "terra"
+      ],
+      "owner": {
+        "account_id": 12228930,
+        "reputation": 131,
+        "user_id": 8925628,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bab3a8a92bddce7dba5657010a78b868?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Jaken",
+        "link": "https://stackoverflow.com/users/8925628/jaken"
       },
-      {
-        "tags": [
-          "c++",
-          "visual-studio",
-          "gcc",
-          "linker"
-        ],
-        "owner": {
-          "account_id": 1199,
-          "reputation": 15646,
-          "user_id": 1597,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/c837c9ab2719230c1bf659efff2cea0a?s=256&d=identicon&r=PG",
-          "display_name": "Landon",
-          "link": "https://stackoverflow.com/users/1597/landon"
-        },
-        "is_answered": true,
-        "view_count": 1617,
-        "accepted_answer_id": 43304,
-        "answer_count": 5,
-        "score": 8,
-        "last_activity_date": 1220597682,
-        "creation_date": 1220504199,
-        "last_edit_date": 1221070438,
-        "question_id": 43194,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/43194/mixing-c-c-libraries",
-        "title": "Mixing C/C++ Libraries"
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1732205939,
+      "creation_date": 1732205660,
+      "question_id": 79212064,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212064/extracting-time-from-an-unconventionally-named-netcdf-using-terra",
+      "title": "Extracting time from an unconventionally-named netcdf using terra"
+    },
+    {
+      "tags": [
+        "python",
+        "sorting",
+        "alphabetical-sort"
+      ],
+      "owner": {
+        "account_id": 34919949,
+        "reputation": 1,
+        "user_id": 26861481,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e1f39067f02fb06abace5ec8060ea25c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Ananya",
+        "link": "https://stackoverflow.com/users/26861481/ananya"
       },
-      {
-        "tags": [
-          "firefox",
-          "browser",
-          "internet-explorer-8"
-        ],
-        "owner": {
-          "account_id": 149,
-          "reputation": 54725,
-          "user_id": 184,
-          "user_type": "registered",
-          "accept_rate": 85,
-          "profile_image": "https://i.sstatic.net/kqgas.jpg?s=256",
-          "display_name": "Niyaz",
-          "link": "https://stackoverflow.com/users/184/niyaz"
-        },
-        "is_answered": true,
-        "view_count": 4081,
-        "accepted_answer_id": 45448,
-        "answer_count": 3,
-        "score": 18,
-        "last_activity_date": 1220608147,
-        "creation_date": 1220601992,
-        "question_id": 45407,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/45407/is-there-any-difference-between-the-box-models-of-ie8-and-firefox3",
-        "title": "Is there any difference between the box models of IE8 and Firefox3?"
+      "is_answered": false,
+      "view_count": 22,
+      "closed_date": 1732207740,
+      "answer_count": 1,
+      "score": -3,
+      "last_activity_date": 1732207561,
+      "creation_date": 1732206913,
+      "question_id": 79212141,
+      "link": "https://stackoverflow.com/questions/79212141/how-can-i-extract-all-unique-words-from-a-text-file-and-sort-them-alphabetically",
+      "closed_reason": "Needs more focus",
+      "title": "How can I extract all unique words from a text file and sort them alphabetically in Python"
+    },
+    {
+      "tags": [
+        "google-sheets",
+        "google-apps-script",
+        "google-drive-api"
+      ],
+      "owner": {
+        "account_id": 28780120,
+        "reputation": 1,
+        "user_id": 22041895,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtenMJ0_bWhwK13xJiKIscwLcYubbzOlmRX_rlDQekI=k-s256",
+        "display_name": "Exeter Trees",
+        "link": "https://stackoverflow.com/users/22041895/exeter-trees"
       },
-      {
-        "tags": [
-          "user-interface",
-          "unix",
-          "solaris"
-        ],
-        "owner": {
-          "account_id": 561634,
-          "reputation": 1375,
-          "user_id": 3006,
-          "user_type": "unregistered",
-          "profile_image": "https://www.gravatar.com/avatar/487b64981464cc35bc721b75c5eb024c?s=256&d=identicon&r=PG",
-          "display_name": "Avinash",
-          "link": "https://stackoverflow.com/users/3006/avinash"
-        },
-        "is_answered": true,
-        "view_count": 1165,
-        "answer_count": 8,
-        "score": 5,
-        "last_activity_date": 1220609246,
-        "creation_date": 1219813163,
-        "last_edit_date": 1219840367,
-        "question_id": 29555,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/29555/gui-toolkit-for-rapid-development",
-        "title": "GUI toolkit for rapid development?"
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732208553,
+      "creation_date": 1732201749,
+      "last_edit_date": 1732208553,
+      "question_id": 79211786,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211786/add-a-row-to-a-google-sheet-when-a-user-creates-a-new-file-in-a-specific-shared",
+      "title": "Add a row to a Google sheet when a user creates a new file in a specific shared drive"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "apache-spark",
+        "apache-spark-sql",
+        "azure-synapse"
+      ],
+      "owner": {
+        "account_id": 16685230,
+        "reputation": 85,
+        "user_id": 12059330,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a93e7b43c964ed01931a14a8988bbb48?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Rana",
+        "link": "https://stackoverflow.com/users/12059330/rana"
       },
-      {
-        "tags": [
-          "unix",
-          "shell"
-        ],
-        "owner": {
-          "account_id": 1064,
-          "reputation": 55939,
-          "user_id": 1412,
-          "user_type": "registered",
-          "accept_rate": 60,
-          "profile_image": "https://www.gravatar.com/avatar/b31241eac12146518af4ef27cc01a34c?s=256&d=identicon&r=PG",
-          "display_name": "Chris Conway",
-          "link": "https://stackoverflow.com/users/1412/chris-conway"
-        },
-        "is_answered": true,
-        "view_count": 6590,
-        "accepted_answer_id": 42092,
-        "answer_count": 4,
-        "score": 10,
-        "last_activity_date": 1220632728,
-        "creation_date": 1220459450,
-        "last_edit_date": 1220461400,
-        "question_id": 42070,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/42070/why-does-the-bourne-shell-printf-iterate-over-a-s-argument",
-        "title": "Why does the Bourne shell printf iterate over a %s argument?"
+      "is_answered": false,
+      "view_count": 18,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732208029,
+      "creation_date": 1732206727,
+      "last_edit_date": 1732208029,
+      "question_id": 79212130,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212130/how-to-optimize-field-calculation-for-large-dataset-in-azure-synapse-spark-noteb",
+      "title": "How to optimize field calculation for large dataset in Azure Synapse Spark notebooks with cumulative sum?"
+    },
+    {
+      "tags": [
+        "c++",
+        "matplotlib",
+        "oop"
+      ],
+      "owner": {
+        "account_id": 37768455,
+        "reputation": 1,
+        "user_id": 28418220,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0df999a37fcc62dc6ec59744b3881935?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "shahzeb hafeez",
+        "link": "https://stackoverflow.com/users/28418220/shahzeb-hafeez"
       },
-      {
-        "tags": [
-          "architecture"
-        ],
-        "owner": {
-          "account_id": 820,
-          "reputation": 3296,
-          "user_id": 1071,
-          "user_type": "registered",
-          "accept_rate": 78,
-          "profile_image": "https://www.gravatar.com/avatar/8dab45e5ca5f4ca03e3ba355d2410d00?s=256&d=identicon&r=PG",
-          "display_name": "tim",
-          "link": "https://stackoverflow.com/users/1071/tim"
-        },
-        "is_answered": true,
-        "view_count": 876,
-        "answer_count": 3,
-        "score": 3,
-        "last_activity_date": 1220636404,
-        "creation_date": 1220633410,
-        "last_edit_date": 1220636134,
-        "question_id": 46280,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/46280/web-site-structure-architecture",
-        "title": "web site structure/architecture"
+      "is_answered": false,
+      "view_count": 23,
+      "closed_date": 1732206323,
+      "answer_count": 0,
+      "score": -7,
+      "last_activity_date": 1732206143,
+      "creation_date": 1732206143,
+      "question_id": 79212087,
+      "link": "https://stackoverflow.com/questions/79212087/2d-and-3d-garph-plotting-software-like-desmos-in-c",
+      "closed_reason": "Not suitable for this site",
+      "title": "2d and 3d garph plotting software like desmos in c++"
+    },
+    {
+      "tags": [
+        "sql-server",
+        "azure",
+        "deployment",
+        "github-actions",
+        "azure-static-web-app"
+      ],
+      "owner": {
+        "account_id": 361559,
+        "reputation": 2970,
+        "user_id": 704238,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.sstatic.net/ky3Nv.jpg?s=256",
+        "display_name": "adam",
+        "link": "https://stackoverflow.com/users/704238/adam"
       },
-      {
-        "tags": [
-          "linq",
-          "functional-programming"
-        ],
-        "owner": {
-          "account_id": 600,
-          "reputation": 29610,
-          "user_id": 781,
-          "user_type": "registered",
-          "accept_rate": 96,
-          "profile_image": "https://www.gravatar.com/avatar/1a94125025af7fa5ab127175c2e6733d?s=256&d=identicon&r=PG",
-          "display_name": "Esteban Araya",
-          "link": "https://stackoverflow.com/users/781/esteban-araya"
-        },
-        "is_answered": true,
-        "view_count": 227,
-        "accepted_answer_id": 46206,
-        "answer_count": 3,
-        "score": 7,
-        "last_activity_date": 1220640666,
-        "creation_date": 1220631436,
-        "question_id": 46189,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/46189/mapping-collections-with-linq",
-        "title": "Mapping collections with LINQ"
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732206799,
+      "creation_date": 1732206391,
+      "last_edit_date": 1732206799,
+      "question_id": 79212104,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212104/struggling-to-publish-new-azure-static-web-apps-from-data-api-builder",
+      "title": "Struggling to publish new Azure Static Web Apps from Data API Builder"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "api"
+      ],
+      "owner": {
+        "account_id": 37277387,
+        "reputation": 1,
+        "user_id": 28163115,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/1edaf72a8c0dc3d063026a8f3e2232ad?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Tw1ster",
+        "link": "https://stackoverflow.com/users/28163115/tw1ster"
       },
-      {
-        "tags": [
-          "python",
-          "mapping",
-          "iteration"
-        ],
-        "owner": {
-          "account_id": 2576,
-          "reputation": 71244,
-          "user_id": 3594,
-          "user_type": "registered",
-          "accept_rate": 95,
-          "profile_image": "https://www.gravatar.com/avatar/5928057c2aff65b162eb34d5cc3797fa?s=256&d=identicon&r=PG",
-          "display_name": "cdleary",
-          "link": "https://stackoverflow.com/users/3594/cdleary"
-        },
-        "is_answered": true,
-        "view_count": 864,
-        "accepted_answer_id": 35582,
-        "answer_count": 1,
-        "score": 14,
-        "last_activity_date": 1220642537,
-        "creation_date": 1220061065,
-        "last_edit_date": 1220642537,
-        "question_id": 35569,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/35569/why-does-pythons-iter-on-a-mapping-return-iterkeys-instead-of-iteritems",
-        "title": "Why does Python&#39;s iter() on a mapping return iterkeys() instead of iteritems()?"
+      "is_answered": false,
+      "view_count": 17,
+      "closed_date": 1732207037,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732207435,
+      "creation_date": 1732206959,
+      "last_edit_date": 1732207435,
+      "question_id": 79212147,
+      "link": "https://stackoverflow.com/questions/79212147/specifc-key-from-a-json-returning-a-hash-value-from-api",
+      "closed_reason": "Not suitable for this site",
+      "title": "Specifc key from a JSON returning a hash value from API"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "undefined",
+        "sessionid"
+      ],
+      "owner": {
+        "account_id": 22544775,
+        "reputation": 1,
+        "user_id": 16734892,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJz27JIjVq9lisy5khzbTBkAxzIys9PVssv5BJsE=k-s256",
+        "display_name": "JustTuyen",
+        "link": "https://stackoverflow.com/users/16734892/justtuyen"
       },
-      {
-        "tags": [
-          "standards",
-          "coding-style"
-        ],
-        "owner": {
-          "account_id": 2905,
-          "reputation": 18291,
-          "user_id": 4115,
-          "user_type": "registered",
-          "accept_rate": 86,
-          "profile_image": "https://www.gravatar.com/avatar/6f9b0c7290870141ca0f8bbcb17cf04e?s=256&d=identicon&r=PG",
-          "display_name": "Ben Griswold",
-          "link": "https://stackoverflow.com/users/4115/ben-griswold"
-        },
-        "is_answered": true,
-        "view_count": 2181,
-        "accepted_answer_id": 46618,
-        "answer_count": 6,
-        "score": 16,
-        "last_activity_date": 1220643916,
-        "creation_date": 1220641466,
-        "question_id": 46584,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/46584/when-should-one-use-a-project-reference-opposed-to-a-binary-reference",
-        "title": "When should one use a project reference opposed to a binary reference?"
+      "is_answered": false,
+      "view_count": 16,
+      "closed_date": 1732205671,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1732205561,
+      "creation_date": 1732205561,
+      "question_id": 79212055,
+      "link": "https://stackoverflow.com/questions/79212055/error-about-sessionid-undefined-variable-row-in",
+      "closed_reason": "Duplicate",
+      "title": "Error about $_SESSION[&#39;id&#39;]: Undefined variable $row in"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "loops",
+        "for-loop",
+        "beautifulsoup"
+      ],
+      "owner": {
+        "account_id": 35256559,
+        "reputation": 5,
+        "user_id": 27081936,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/35641800094b3a0ff9fef1b7b1ecfd51?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "enginexray",
+        "link": "https://stackoverflow.com/users/27081936/enginexray"
       },
-      {
-        "tags": [
-          "c#",
-          "asp.net",
-          "visual-studio",
-          "web-services",
-          "iis"
-        ],
-        "owner": {
-          "account_id": 1849,
-          "reputation": 7268,
-          "user_id": 2543,
-          "user_type": "registered",
-          "accept_rate": 93,
-          "profile_image": "https://www.gravatar.com/avatar/5ff1e1b35d1fc13baf08d807fb2097a7?s=256&d=identicon&r=PG",
-          "display_name": "Jared Updike",
-          "link": "https://stackoverflow.com/users/2543/jared-updike"
-        },
-        "is_answered": true,
-        "view_count": 1164,
-        "accepted_answer_id": 47221,
-        "answer_count": 2,
-        "score": 2,
-        "last_activity_date": 1220670566,
-        "creation_date": 1220054109,
-        "question_id": 35479,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/35479/exception-in-web-service-locks-dll-and-prevents-publishing-workaround",
-        "title": "Exception in Web Service locks DLL and prevents publishing. Workaround?"
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207658,
+      "creation_date": 1732207658,
+      "question_id": 79212184,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212184/my-for-loop-shows-an-indentation-error-despite-all-indents-being-standardised",
+      "title": "My for loop shows an indentation error despite all indents being standardised"
+    },
+    {
+      "tags": [
+        "css",
+        "css-selectors"
+      ],
+      "owner": {
+        "account_id": 556009,
+        "reputation": 29,
+        "user_id": 1457347,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a6f27596fe23330040ff8cec365f5531?s=256&d=identicon&r=PG",
+        "display_name": "thomp361",
+        "link": "https://stackoverflow.com/users/1457347/thomp361"
       },
-      {
-        "tags": [
-          "asp.net",
-          "web-applications",
-          "custom-server-controls"
-        ],
-        "owner": {
-          "account_id": 2352,
-          "reputation": 28386,
-          "user_id": 3263,
-          "user_type": "registered",
-          "accept_rate": 89,
-          "profile_image": "https://www.gravatar.com/avatar/544cec6fd42d60286e3a13edbf96aab0?s=256&d=identicon&r=PG",
-          "display_name": "Radu094",
-          "link": "https://stackoverflow.com/users/3263/radu094"
-        },
-        "is_answered": true,
-        "view_count": 1020,
-        "accepted_answer_id": 47344,
-        "answer_count": 2,
-        "score": 3,
-        "last_activity_date": 1220691777,
-        "creation_date": 1220689822,
-        "question_id": 47329,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/47329/usercontrol-rendering-write-link-to-current-page",
-        "title": "UserControl rendering: write link to current page?"
+      "is_answered": false,
+      "view_count": 16,
+      "closed_date": 1732208665,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207798,
+      "creation_date": 1732206773,
+      "last_edit_date": 1732207798,
+      "question_id": 79212133,
+      "link": "https://stackoverflow.com/questions/79212133/how-can-i-select-the-last-descendant-element-of-type",
+      "closed_reason": "Duplicate",
+      "title": "How can I select the last descendant element of type?"
+    },
+    {
+      "tags": [
+        "azure",
+        "azure-bicep"
+      ],
+      "owner": {
+        "account_id": 12643724,
+        "reputation": 111,
+        "user_id": 17217445,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/42ab82e82267f30dde87bde564bdd20b?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "play_something_good",
+        "link": "https://stackoverflow.com/users/17217445/play-something-good"
       },
-      {
-        "tags": [
-          "database-design",
-          "web-applications"
-        ],
-        "owner": {
-          "account_id": 2063,
-          "reputation": 18043,
-          "user_id": 2841,
-          "user_type": "registered",
-          "accept_rate": 71,
-          "profile_image": "https://www.gravatar.com/avatar/7ef637bfe1467faf361c768e9e6894f5?s=256&d=identicon&r=PG",
-          "display_name": "Farinha",
-          "link": "https://stackoverflow.com/users/2841/farinha"
-        },
-        "is_answered": true,
-        "view_count": 9109,
-        "closed_date": 1358230389,
-        "accepted_answer_id": 47501,
-        "answer_count": 4,
-        "score": 5,
-        "last_activity_date": 1220736108,
-        "creation_date": 1220710610,
-        "last_edit_date": 1220998431,
-        "question_id": 47486,
-        "link": "https://stackoverflow.com/questions/47486/tips-for-database-design-in-a-web-application",
-        "closed_reason": "not constructive",
-        "title": "Tips for database design in a web application"
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732205206,
+      "creation_date": 1732205206,
+      "question_id": 79212024,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212024/nested-loop-in-bicep",
+      "title": "Nested loop in Bicep"
+    },
+    {
+      "tags": [
+        "python",
+        "debugging"
+      ],
+      "owner": {
+        "account_id": 34595990,
+        "reputation": 1,
+        "user_id": 26654508,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7d82ec4fdba6ed7119ce9e715ed00532?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Roshni Senthilkumar",
+        "link": "https://stackoverflow.com/users/26654508/roshni-senthilkumar"
       },
-      {
-        "tags": [
-          "linux",
-          "ocaml",
-          "godi"
-        ],
-        "owner": {
-          "account_id": 129,
-          "reputation": 47888,
-          "user_id": 157,
-          "user_type": "registered",
-          "accept_rate": 95,
-          "profile_image": "https://www.gravatar.com/avatar/5c4d195536d28df970410dace14870c1?s=256&d=identicon&r=PG",
-          "display_name": "nlucaroni",
-          "link": "https://stackoverflow.com/users/157/nlucaroni"
-        },
-        "is_answered": true,
-        "view_count": 902,
-        "accepted_answer_id": 47678,
-        "answer_count": 2,
-        "score": 7,
-        "last_activity_date": 1220742879,
-        "creation_date": 1220686591,
-        "last_edit_date": 1220741296,
-        "question_id": 47309,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/47309/godi-installation-issue",
-        "title": "GODI installation issue"
+      "is_answered": false,
+      "view_count": 16,
+      "closed_date": 1732207918,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1732207490,
+      "creation_date": 1732207364,
+      "last_edit_date": 1732207490,
+      "question_id": 79212164,
+      "link": "https://stackoverflow.com/questions/79212164/why-does-my-code-fail-hidden-test-cases-for-printing-consecutive-numbers",
+      "closed_reason": "Needs details or clarity",
+      "title": "Why does my code fail hidden test cases for printing consecutive numbers?"
+    },
+    {
+      "tags": [
+        "java",
+        "exception",
+        "ioexception"
+      ],
+      "owner": {
+        "account_id": 3729650,
+        "reputation": 1080,
+        "user_id": 3102471,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/eb9223aa0145e88b0c66973b380f8b4e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "mbmast",
+        "link": "https://stackoverflow.com/users/3102471/mbmast"
       },
-      {
-        "tags": [
-          "ruby",
-          "syntax"
-        ],
-        "owner": {
-          "account_id": 2922,
-          "reputation": 2328,
-          "user_id": 4142,
-          "user_type": "registered",
-          "accept_rate": 75,
-          "profile_image": "https://www.gravatar.com/avatar/957e2767e8cea3676aecc10661e3b511?s=256&d=identicon&r=PG",
-          "display_name": "Nathan Fritz",
-          "link": "https://stackoverflow.com/users/4142/nathan-fritz"
-        },
-        "is_answered": true,
-        "view_count": 1787,
-        "accepted_answer_id": 43146,
-        "answer_count": 2,
-        "score": 27,
-        "last_activity_date": 1220754189,
-        "creation_date": 1220498491,
-        "question_id": 43134,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/43134/is-there-a-difference-between-and-when-calling-class-methods-in-ruby",
-        "title": "Is there a difference between :: and . when calling class methods in Ruby?"
+      "is_answered": true,
+      "view_count": 16,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1732208698,
+      "creation_date": 1732207477,
+      "question_id": 79212168,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212168/java-method-declared-to-throw-ioexception-not-propagating-the-exception-up-the-c",
+      "title": "Java method declared to throw IOException not propagating the exception up the call stack"
+    },
+    {
+      "tags": [
+        "python",
+        "django",
+        "docker"
+      ],
+      "owner": {
+        "account_id": 10463842,
+        "reputation": 3899,
+        "user_id": 7713770,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://i.sstatic.net/vBBxV.jpg?s=256",
+        "display_name": "mightycode Newton",
+        "link": "https://stackoverflow.com/users/7713770/mightycode-newton"
       },
-      {
-        "tags": [
-          ".net",
-          "exception",
-          "windows-services"
-        ],
-        "owner": {
-          "account_id": 880,
-          "reputation": 5799,
-          "user_id": 1154,
-          "user_type": "registered",
-          "accept_rate": 100,
-          "profile_image": "https://www.gravatar.com/avatar/e2c78ceb1cbf0fa95fc3a1bca92db9a8?s=256&d=identicon&r=PG",
-          "display_name": "Jedi Master Spooky",
-          "link": "https://stackoverflow.com/users/1154/jedi-master-spooky"
-        },
-        "is_answered": true,
-        "view_count": 410,
-        "accepted_answer_id": 48837,
-        "answer_count": 2,
-        "score": 3,
-        "last_activity_date": 1220825492,
-        "creation_date": 1220819560,
-        "last_edit_date": 1220822001,
-        "question_id": 48757,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/48757/unhandled-exceptions-filter-in-a-windows-service",
-        "title": "Unhandled exceptions filter in a windows service"
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207241,
+      "creation_date": 1732205644,
+      "last_edit_date": 1732207241,
+      "question_id": 79212063,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212063/how-to-run-django-ckeditor-5-with-docker-container",
+      "title": "How to run django-ckeditor-5 with docker container?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server",
+        "t-sql"
+      ],
+      "owner": {
+        "account_id": 7448996,
+        "reputation": 59,
+        "user_id": 5664369,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8d325c88b1494af2ec5d4230b2e40313?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "DBox",
+        "link": "https://stackoverflow.com/users/5664369/dbox"
       },
-      {
-        "tags": [
-          "cd",
-          "embeddedwebserver"
-        ],
-        "owner": {
-          "account_id": 1317,
-          "reputation": 6571,
-          "user_id": 1753,
-          "user_type": "registered",
-          "accept_rate": 82,
-          "profile_image": "https://www.gravatar.com/avatar/0a1a220854cb0e2a7d4d7a1e1bc638b8?s=256&d=identicon&r=PG",
-          "display_name": "Nathan DeWitt",
-          "link": "https://stackoverflow.com/users/1753/nathan-dewitt"
-        },
-        "is_answered": true,
-        "view_count": 1197,
-        "closed_date": 1493553396,
-        "answer_count": 10,
-        "score": 13,
-        "last_activity_date": 1220838507,
-        "creation_date": 1220465469,
-        "question_id": 42239,
-        "link": "https://stackoverflow.com/questions/42239/make-a-cd-run-once",
-        "closed_reason": "Needs more focus",
-        "title": "Make a CD run once"
+      "is_answered": false,
+      "view_count": 28,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1732207284,
+      "creation_date": 1732206581,
+      "last_edit_date": 1732207284,
+      "question_id": 79212120,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212120/is-it-possible-to-correlate-these-tables-dynamically-or-automated-in-ms-sql-se",
+      "title": "Is it possible to correlate these tables dynamically (or automated) in MS SQL Server?"
+    },
+    {
+      "tags": [
+        "pyqt5",
+        "mysql-connector"
+      ],
+      "owner": {
+        "account_id": 26758427,
+        "reputation": 1,
+        "user_id": 20356724,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6c55c4ef4c3abf0f27b5b71975aa0a87?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "kunozuri",
+        "link": "https://stackoverflow.com/users/20356724/kunozuri"
       },
-      {
-        "tags": [
-          "programming-languages",
-          "naming"
-        ],
-        "owner": {
-          "account_id": 149,
-          "reputation": 54725,
-          "user_id": 184,
-          "user_type": "registered",
-          "accept_rate": 85,
-          "profile_image": "https://i.sstatic.net/kqgas.jpg?s=256",
-          "display_name": "Niyaz",
-          "link": "https://stackoverflow.com/users/184/niyaz"
-        },
-        "is_answered": true,
-        "view_count": 785,
-        "accepted_answer_id": 49530,
-        "answer_count": 6,
-        "score": 1,
-        "last_activity_date": 1220877081,
-        "creation_date": 1220866855,
-        "question_id": 49382,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/49382/what-are-the-preferred-conventions-in-naming-attributes-methods-and-classes-in",
-        "title": "What are the preferred conventions in naming attributes, methods and classes in different languages?"
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1732204956,
+      "creation_date": 1732204807,
+      "question_id": 79211996,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211996/can-someone-fix-this-connectivity-error-in-sql",
+      "title": "Can someone fix this connectivity error in sql"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "spring-data-jpa",
+        "spring-data"
+      ],
+      "owner": {
+        "account_id": 16167609,
+        "reputation": 547,
+        "user_id": 11672206,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-vFBbgBuuZZA/AAAAAAAAAAI/AAAAAAAAGvI/CE0Fg_UnmRo/photo.jpg?sz=256",
+        "display_name": "Ballazx",
+        "link": "https://stackoverflow.com/users/11672206/ballazx"
       },
-      {
-        "tags": [
-          "web-services",
-          "application-integration"
-        ],
-        "owner": {
-          "account_id": 279,
-          "reputation": 1831,
-          "user_id": 349,
-          "user_type": "registered",
-          "accept_rate": 62,
-          "profile_image": "https://www.gravatar.com/avatar/47ebce52bf7c1f07a4bca41e6543e940?s=256&d=identicon&r=PG",
-          "display_name": "Edo",
-          "link": "https://stackoverflow.com/users/349/edo"
-        },
-        "is_answered": true,
-        "view_count": 18403,
-        "accepted_answer_id": 1724,
-        "answer_count": 8,
-        "score": 24,
-        "last_activity_date": 1220877303,
-        "creation_date": 1217893414,
-        "last_edit_date": 1219517043,
-        "question_id": 1709,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/1709/how-to-pass-enumerated-values-to-a-web-service",
-        "title": "How to pass enumerated values to a web service"
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732206748,
+      "creation_date": 1732205134,
+      "question_id": 79212017,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212017/spring-data-jpa-foreign-key-constraint-violation-on-delete",
+      "title": "Spring Data JPA: Foreign Key Constraint Violation on Delete"
+    },
+    {
+      "tags": [
+        "java",
+        "jvm",
+        "polymorphism"
+      ],
+      "owner": {
+        "account_id": 25103591,
+        "reputation": 21,
+        "user_id": 19007903,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhorcVnwhJd2FbG2T6vMtQIj5BtoILXNJtBVWjL=k-s256",
+        "display_name": "Younes Chakrani",
+        "link": "https://stackoverflow.com/users/19007903/younes-chakrani"
       },
-      {
-        "tags": [
-          "unit-testing",
-          "testing",
-          "tdd"
-        ],
-        "owner": {
-          "account_id": 1789,
-          "reputation": 7879,
-          "user_id": 2455,
-          "user_type": "registered",
-          "accept_rate": 82,
-          "profile_image": "https://www.gravatar.com/avatar/1c04ce7ce6ac1ac03481475f27b78881?s=256&d=identicon&r=PG",
-          "display_name": "Andrew Harmel-Law",
-          "link": "https://stackoverflow.com/users/2455/andrew-harmel-law"
-        },
-        "is_answered": true,
-        "view_count": 2281,
-        "closed_date": 1380316619,
-        "accepted_answer_id": 47729,
-        "answer_count": 4,
-        "score": 10,
-        "last_activity_date": 1220878943,
-        "creation_date": 1220723871,
-        "question_id": 47692,
-        "link": "https://stackoverflow.com/questions/47692/how-do-i-become-test-infected-with-tdd",
-        "closed_reason": "Opinion-based",
-        "title": "How do I become &quot;test infected&quot; with TDD?"
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207612,
+      "creation_date": 1732207612,
+      "question_id": 79212180,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212180/how-jvm-implements-interface-polymorphism-internally",
+      "title": "How jvm implements interface polymorphism internally"
+    },
+    {
+      "tags": [
+        "python",
+        "gpu",
+        "gradient",
+        "large-language-model",
+        "training-data"
+      ],
+      "owner": {
+        "account_id": 37701607,
+        "reputation": 1,
+        "user_id": 28382136,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/6H5lJZlB.jpg?s=256",
+        "display_name": "Olena",
+        "link": "https://stackoverflow.com/users/28382136/olena"
       },
-      {
-        "tags": [
-          "build-automation",
-          "nant"
-        ],
-        "owner": {
-          "account_id": 2378,
-          "reputation": 1014,
-          "user_id": 3294,
-          "user_type": "registered",
-          "profile_image": "https://www.gravatar.com/avatar/5138e2c61c9f893f194819dbd4d7d562?s=256&d=identicon&r=PG",
-          "display_name": "Steven Williams",
-          "link": "https://stackoverflow.com/users/3294/steven-williams"
-        },
-        "is_answered": true,
-        "view_count": 5752,
-        "accepted_answer_id": 49697,
-        "answer_count": 1,
-        "score": 8,
-        "last_activity_date": 1220880202,
-        "creation_date": 1220878471,
-        "question_id": 49623,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/49623/nant-copy-and-maintain-directory-structure",
-        "title": "Nant &lt;copy&gt; and maintain directory structure"
+      "is_answered": false,
+      "view_count": 11,
+      "closed_date": 1732208946,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1732206895,
+      "creation_date": 1732206107,
+      "last_edit_date": 1732206895,
+      "question_id": 79212084,
+      "link": "https://stackoverflow.com/questions/79212084/fine-tuning-llms-on-hugging-face-with-large-datasets-python-ai-solutions",
+      "closed_reason": "Needs more focus",
+      "title": "Fine-Tuning LLMs on Hugging Face with Large Datasets / Python AI Solutions"
+    },
+    {
+      "tags": [
+        "python",
+        "excel",
+        "migration",
+        "virtual-machine",
+        "openpyxl"
+      ],
+      "owner": {
+        "account_id": 37767501,
+        "reputation": 1,
+        "user_id": 28417708,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/42882f629f86c97f79047dec12109d90?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "user28417708",
+        "link": "https://stackoverflow.com/users/28417708/user28417708"
       },
-      {
-        "tags": [
-          "language-agnostic",
-          "search",
-          "debugging",
-          "code-coverage"
-        ],
-        "owner": {
-          "account_id": 610,
-          "reputation": 117803,
-          "user_id": 797,
-          "user_type": "registered",
-          "accept_rate": 66,
-          "profile_image": "https://www.gravatar.com/avatar/aef85130bf44caa9b4de0a3153e758f2?s=256&d=identicon&r=PG",
-          "display_name": "Matt Sheppard",
-          "link": "https://stackoverflow.com/users/797/matt-sheppard"
-        },
-        "is_answered": true,
-        "view_count": 144,
-        "answer_count": 1,
-        "score": 1,
-        "last_activity_date": 1220880241,
-        "creation_date": 1220758694,
-        "last_edit_date": 1220880241,
-        "question_id": 48110,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/48110/free-text-search-integrated-with-code-coverage",
-        "title": "Free text search integrated with code coverage"
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732205342,
+      "creation_date": 1732205342,
+      "question_id": 79212036,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212036/when-writing-data-to-an-excel-file-using-openpyxl-modifying-the-value-of-the-ce",
+      "title": "When writing data to an excel file using openpyxl, modifying the value of the cell causes the styling to reset. Am i doing something wrong?"
+    },
+    {
+      "tags": [
+        "r",
+        "nest",
+        "nest-rtables",
+        "nest-tern"
+      ],
+      "owner": {
+        "account_id": 37716381,
+        "reputation": 1,
+        "user_id": 28389404,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/811b82738895efcf5945a8f5bd7b647c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Huan Lu",
+        "link": "https://stackoverflow.com/users/28389404/huan-lu"
       },
-      {
-        "tags": [
-          "sql-server"
-        ],
-        "owner": {
-          "account_id": 1700,
-          "reputation": 25031,
-          "user_id": 2291,
-          "user_type": "registered",
-          "accept_rate": 88,
-          "profile_image": "https://www.gravatar.com/avatar/52c5b2df0b28f6efc9d50e4d0d47e42a?s=256&d=identicon&r=PG",
-          "display_name": "Jon Adams",
-          "link": "https://stackoverflow.com/users/2291/jon-adams"
-        },
-        "is_answered": true,
-        "view_count": 1335,
-        "accepted_answer_id": 50015,
-        "answer_count": 1,
-        "score": 1,
-        "last_activity_date": 1220889191,
-        "creation_date": 1220889060,
-        "last_edit_date": 1495541614,
-        "question_id": 50003,
-        "content_license": "CC BY-SA 3.0",
-        "link": "https://stackoverflow.com/questions/50003/sql-2000-database-copy-to-sql-2005-options",
-        "title": "SQL 2000 database copy to SQL 2005 options"
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1732207239,
+      "creation_date": 1732207239,
+      "question_id": 79212158,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212158/count-number-of-patient-with-percentage-with-row-wise-denominator-by-paired-colu",
+      "title": "Count number of patient with percentage with row-wise denominator by paired-column"
+    },
+    {
+      "tags": [
+        "arrays",
+        "c",
+        "initialization",
+        "dynamic-memory-allocation"
+      ],
+      "owner": {
+        "account_id": 32341808,
+        "reputation": 1,
+        "user_id": 25119486,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e9e1f3134b5c467d6afe8f1032cc8d9f?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Therd Dollison",
+        "link": "https://stackoverflow.com/users/25119486/therd-dollison"
       },
-      {
-        "tags": [
-          "asp.net",
-          "regex"
-        ],
-        "owner": {
-          "account_id": 2311,
-          "reputation": 54852,
-          "user_id": 3208,
-          "user_type": "registered",
-          "accept_rate": 86,
-          "profile_image": "https://www.gravatar.com/avatar/8092a4ad249c669a8e833fe49f4b4052?s=256&d=identicon&r=PG",
-          "display_name": "Brian G",
-          "link": "https://stackoverflow.com/users/3208/brian-g"
-        },
-        "is_answered": true,
-        "view_count": 1260,
-        "accepted_answer_id": 49938,
-        "answer_count": 5,
-        "score": 5,
-        "last_activity_date": 1220889431,
-        "creation_date": 1220887042,
-        "question_id": 49919,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/49919/regex-to-match-first-28-days-of-the-month",
-        "title": "Regex to Match first 28 days of the month"
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1732209017,
+      "creation_date": 1732207314,
+      "question_id": 79212161,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79212161/how-do-you-initialize-values-of-a-dynamically-allocated-2d-array-in-c",
+      "title": "How do you initialize values of a dynamically allocated 2D array in C?"
+    },
+    {
+      "tags": [
+        "c++",
+        "vector",
+        "stdvector"
+      ],
+      "owner": {
+        "account_id": 951226,
+        "reputation": 148,
+        "user_id": 1290711,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d15b29720cb36114018090f22cb39cb4?s=256&d=identicon&r=PG",
+        "display_name": "Andr&#233; Caldas",
+        "link": "https://stackoverflow.com/users/1290711/andr%c3%a9-caldas"
       },
-      {
-        "tags": [
-          "security",
-          "sharepoint"
-        ],
-        "owner": {
-          "account_id": 323,
-          "reputation": 25336,
-          "user_id": 404,
-          "user_type": "registered",
-          "accept_rate": 73,
-          "profile_image": "https://www.gravatar.com/avatar/0a99e26b3a51cd326e188a6a60de1eb6?s=256&d=identicon&r=PG",
-          "display_name": "Chris Farmer",
-          "link": "https://stackoverflow.com/users/404/chris-farmer"
-        },
-        "is_answered": true,
-        "view_count": 562,
-        "accepted_answer_id": 50081,
-        "answer_count": 1,
-        "score": 5,
-        "last_activity_date": 1220892412,
-        "creation_date": 1220889528,
-        "question_id": 50037,
-        "content_license": "CC BY-SA 2.5",
-        "link": "https://stackoverflow.com/questions/50037/what-are-some-good-sharepoint-security-resources",
-        "title": "What are some good SharePoint security resources?"
+      "is_answered": false,
+      "view_count": 62,
+      "closed_date": 1732203820,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1732201522,
+      "creation_date": 1732201522,
+      "question_id": 79211767,
+      "link": "https://stackoverflow.com/questions/79211767/inteligent-use-of-stdvector-reserve",
+      "closed_reason": "Needs details or clarity",
+      "title": "Inteligent use of std::vector reserve"
+    },
+    {
+      "tags": [
+        "sql"
+      ],
+      "owner": {
+        "account_id": 2055421,
+        "reputation": 1898,
+        "user_id": 1833316,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/3d30feefd3ef66b14b5b64991d91a117?s=256&d=identicon&r=PG",
+        "display_name": "Tania Marinova",
+        "link": "https://stackoverflow.com/users/1833316/tania-marinova"
       },
-      {
-        "tags": [
-          "vmware",
-          "virtualization",
-          "vmware-server"
-        ],
-        "owner": {
-          "account_id": 880,
-          "reputation": 5799,
-          "user_id": 1154,
-          "user_type": "registered",
-          "accept_rate": 100,
-          "profile_image": "https://www.gravatar.com/avatar/e2c78ceb1cbf0fa95fc3a1bca92db9a8?s=256&d=identicon&r=PG",
-          "display_name": "Jedi Master Spooky",
-          "link": "https://stackoverflow.com/users/1154/jedi-master-spooky"
-        },
-        "is_answered": true,
-        "view_count": 1364,
-        "closed_date": 1496348822,
-        "accepted_answer_id": 46226,
-        "answer_count": 3,
-        "score": 2,
-        "last_activity_date": 1220893747,
-        "creation_date": 1220550359,
-        "question_id": 44294,
-        "link": "https://stackoverflow.com/questions/44294/enabled-brigded-network-in-vmware-server",
-        "closed_reason": "Not suitable for this site",
-        "title": "Enabled Brigded Network in Vmware Server"
-      }
-    ],
-    "has_more": true,
-    "quota_max": 10000,
-    "quota_remaining": 9655
-  }
+      "is_answered": true,
+      "view_count": 36,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1732207660,
+      "creation_date": 1732204313,
+      "question_id": 79211957,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211957/create-a-query-that-will-give-me-all-the-customers-that-do-not-have-an-order",
+      "title": "create a query that will give me all the customers that **do not have** an order in the last 12 months"
+    },
+    {
+      "tags": [
+        "csv",
+        "google-sheets",
+        "google-apps-script",
+        "google-drive-api",
+        "ftp"
+      ],
+      "owner": {
+        "account_id": 37758975,
+        "reputation": 9,
+        "user_id": 28412949,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/6069dd66d92d1f5f4cc61b3f812c048a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Alejandro Moyano Gonzalez",
+        "link": "https://stackoverflow.com/users/28412949/alejandro-moyano-gonzalez"
+      },
+      "is_answered": true,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1732208615,
+      "creation_date": 1732196388,
+      "last_edit_date": 1732208615,
+      "question_id": 79211415,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79211415/upload-google-sheet-with-app-script-to-ftp-server",
+      "title": "Upload Google Sheet with App Script to FTP Server"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 299
+}

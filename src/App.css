@@ -269,7 +269,7 @@ nav .search-box .search-button {
 .main-content .error {
     color: red;
     font-weight: bold;
-    margin-top: 10px;
+    text-align: center;
 }
 
 .question-info {
